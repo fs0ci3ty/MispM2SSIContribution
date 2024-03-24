@@ -1,0 +1,2188 @@
+{
+    "authors": [
+        "Eliott LALLEMENT, Th\u00e9o PAGES"
+    ],
+    "type": "country-data-protection",
+    "clusters": [
+        {
+            "value": "Afghanistan",
+            "uuid": "c9634abe-888e-4b01-a381-a3712ed2c0c0",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "South Africa",
+            "uuid": "b44ab1da-19c8-482b-8dde-ca904dbee57f",
+            "meta": {
+                "protection_level": 3,
+                "regulation_website": "http://www.justice.gov.za/inforeg/",
+                "address": "The Information Regulator (South Africa)\nJD House, 27 Stiemens Street\nBraamfontein - Johannesburg\n2001, South Africa",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Albania",
+            "uuid": "4a841f6f-4408-4d5d-9f76-100e14ca507d",
+            "meta": {
+                "protection_level": 3,
+                "regulation_website": "http://www.idp.al/index.php/sq/",
+                "address": "Zyra e Komisionerit p\u00ebr t\u00eb Drejt\u00ebn e Informimit dhe Mbrojtjen e t\u00eb Dh\u00ebnave Personale\nRr. \"Abdi Toptani\", Nd. 5\nKodi postar 1001\nTiran\u00eb\nALBANIA",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Algeria",
+            "uuid": "9d60e601-f863-4f93-a9e8-b9be7889858d",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Germany",
+            "uuid": "cb0f2f4d-fdac-4e89-b7eb-cc2433115e62",
+            "meta": {
+                "protection_level": 6,
+                "regulation_website": "https://www.bfdi.bund.de/EN/Service/Anschriften/Laender/Laender-node.html",
+                "address": "Der Bundesbeauftragte f\u00fcr den Datenschutz und die Informations freiheit 153 Graurheindorfer Stra\u00dfe, 53117, Bonn, \nDeutschland",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Andorra",
+            "uuid": "d6c0a87f-db95-43ad-93e6-faba25c4f05d",
+            "meta": {
+                "protection_level": 5,
+                "regulation_website": "https://www.apda.ad/",
+                "address": "Ag\u00e8ncia Andorrana de Protecci\u00f3 de Dades\nEdifici del Consell General\nCarrer Doctor Vilanova, 15-17 (planta-5)\nAD500 Andorra la Vella\nPrincipat d'Andorra",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Angola",
+            "uuid": "4a498399-bcf1-4496-b571-47115f6e1ce2",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "https://www.apd.ao/ao/",
+                "address": "Ag\u00eancia de Prote\u00e7\u00e3o de Dados (APD),MAT street, Talatona Classics Administrative Complex, 3rd building, 7th floor. Luanda, Angola\nLuanda, Angola",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Antigua and Barbuda",
+            "uuid": "fbea58a7-0022-4708-8583-b574334f9f41",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Saudi Arabia",
+            "uuid": "e9f822c6-9bfb-4ed5-b482-a605a94b8c56",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Argentina",
+            "uuid": "b9d1b88b-cd64-4538-9bba-6fec4cc59538",
+            "meta": {
+                "protection_level": 5,
+                "regulation_website": "https://www.argentina.gob.ar/aaip/datospersonales",
+                "address": "Direcci\u00f3n Nacional de Protecci\u00f3n de Datos Personales (PDP)\nAv. Pte. Gral. Julio A. Roca 710, piso 3 - Ciudad Aut\u00f3noma de Buenos Airest\u00f3noma de Buenos Aires\nArgentina",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Armenia",
+            "uuid": "ca49d763-87cb-449b-886a-32bb4925b0f6",
+            "meta": {
+                "protection_level": 3,
+                "regulation_website": "http://www.moj.am",
+                "address": "Personal Data Protection Agency \n3/8 Vazgen Sargsyan Street, Yerevan 0010",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Australia",
+            "uuid": "74931d65-5c50-456a-bff9-c666290d6c4d",
+            "meta": {
+                "protection_level": 3,
+                "regulation_website": "https://www.oaic.gov.au/",
+                "address": "Office of the Australian Information Commissioner\nGPO Box 5218\nSydney NSW 2001\nAUSTRALIA",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Austria",
+            "uuid": "ff4b97c1-cc42-40df-bb6b-b16fc4a9f5ad",
+            "meta": {
+                "protection_level": 6,
+                "regulation_website": "https://www.dsb.gv.at/",
+                "address": "Austrian Data Protection Authority\n\u00d6sterreichische Datenschutzbeh\u00f6rde\nBarichgasse 40-42  \n1030 Wien\nAutriche",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Azerbaijan",
+            "uuid": "286c1538-31ea-4511-a4c5-5e48dea2463d",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "https://mincom.gov.az",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Bahamas",
+            "uuid": "2478b484-0809-46de-9c77-1aa6d3cc950e",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "https://www.bahamas.gov.bs/wps/portal/public/!ut/p/b1/vZbLkqJKFEW_xQ-wyEQgYZjK-_0SgYmBIgiioKg8vr6pG3dQ9o1bNemWHBAEG9bZ-5wkIGIiJOJL8izy5F7Ul6T6vI6Z7QJIBsYUa1ikzwEFriCjrWmgk-QkiL4KJBowQFnbOraRTFoUeH3-t9uQJjZEKEc3fVXjXMCrbXO12rmRs9yxoov0mA7M0hye7IXxndFQcV7v_ISvcilLId0HbeL1d8CEg_CAosiI2zQt4vkw0NvIE6Mop_Z9W2otn2mJf2geqvwoUspry3DT8ZuU7dJOEevxXw_gfw78o4fvM5gEP2SoEnGxO390-_MH-IALiCAJEYUQ4mgaMlNE8bcVaOQPgs8u_CP4xmI0CdCXN_gBmIoE2PWgA1gTEj4RAmrrlUOjjKfRLUE3GvxhNIWchPoaGKfRM32h9-6qaZSrDggAmKOrGDdV8fxYaTneTgN3vcQ8TyXQ-R34mooHqL8NlGiLnTJCvo1pEkgWfDdw8dZIJdsCf93hy9BQzp_v4ctOYTkG0oilOJYBFMUiIigjBvGt0vFCsG2iu5y0XGuLzkbAndE4dw0wSylputrY-awdiLEgqfmjPZCpMu_7U_sUmhg7lkFVtxg2WWQlssKrDHYyJ1trgTzwOFYO_Y7P26l0Epspf9xAFiKedCdzSTzeQJM-GVcd08y-VJxPx6ZXh8Xtmrcal9CZ2sLeqxgjuLbxwLMILdz76gLUR6JRmlUrhwMnJ52lFdewxZU2r8PqzGZM1V9u-mhY5XZxXfqCeyOdGWHK9fnw_TbSyf8OGXINA7DQRKYB_UAz_fCzBV2bruB06rGs-X4E_VNlmWU0mJxspOLUAVE85W43m_0AVMh3A-G7gejNQEy9G8i8G_juKXX-_JS-fJkYDrEQkhSAiEQLRBKBvs97fvrH4QXebccjaGLArXZ1tBQdb5V7u1w_hJKWbdlKLvf1eS05RX1Pdquxbc7LR70HHVwnlxiPdeE2izw_0zal6sc5oyhJYVv91mXr0tydjnDoJYNrDrnkgtAKiOa8fmo6rQqZ-XVRyfx1RXg2-wVyrHpU/dl4/d5/L2dBISEvZ0FBIS9nQSEh",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Bahrain",
+            "uuid": "33a42f5a-ae2e-4065-8646-621e4fc16f87",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "http://www.pdp.gov.bh/en/index.html",
+                "address": "P.O. Box 450, Manama\nKingdom of Bahrain",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Bangladesh",
+            "uuid": "91084897-0ee0-4f54-ad60-9262284964b4",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "https://dsa.gov.bd/",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Barbados",
+            "uuid": "d7e61d0d-95db-4702-beb7-da3526c1bfac",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "https://www.gov.bb/Departments/data-protection-commissioner",
+                "address": "Baobab Tower, Highway 2, Barbade",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Belgium",
+            "uuid": "20242eba-6314-49ca-9c56-faa78934bbb4",
+            "meta": {
+                "protection_level": 6,
+                "regulation_website": "https://www.autoriteprotectiondonnees.be/",
+                "address": "Autorit\u00e9 de protection des donn\u00e9es\nRue de la Presse, 35\n1000 Bruxelles\nBelgique",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Belize",
+            "uuid": "5d56c28f-e996-4389-b830-a24080b485fe",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Benin",
+            "uuid": "04aab9ac-a7d1-4d10-9a0a-10fac10a9d55",
+            "meta": {
+                "protection_level": 3,
+                "regulation_website": "https://apdp.bj/",
+                "address": "Autorit\u00e9 de protection des donn\u00e9es \u00e0 caract\u00e8re personnel (APDP)\nRue 701\nCotonou - B\u00e9nin",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Bermuda",
+            "uuid": "09b2cb33-42e5-44fb-bdd3-080a61e4cfc6",
+            "meta": {
+                "protection_level": 3,
+                "regulation_website": "https://www.privacy.bm",
+                "address": "Office of Privacy Commissionner\nMaxwell Roberts Building, 4th Floor\n1 Church Street\nHamilton, HM11\nBermuda",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Bhutan",
+            "uuid": "556f74fc-3fd5-4007-9a76-5d32ac232dc2",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Belarus",
+            "uuid": "c244f17a-c31a-4162-a736-26d51bc7dbb0",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "https://cpd.by",
+                "address": "National Center for Personal Data Protection of the Republic of Belarus.\n24, st. K. Zetkin,\n220004 Minsk,\nBELARUS",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Burma (Myanmar)",
+            "uuid": "0e574233-6e38-461d-83ed-1b7ed26e22d2",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Bolivia",
+            "uuid": "aba027c5-ccf0-4bc4-8b8b-927dbb4e320c",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Bosnia and Herzegovina",
+            "uuid": "c32cfe10-9970-43cb-97d8-0db1a74ef0d6",
+            "meta": {
+                "protection_level": 3,
+                "regulation_website": "http://www.azlp.gov.ba/",
+                "address": "Agencija za za\u0161titu li\u010dnih podataka u Bosni i Hercegovini\nDubrova\u010dka broj 6\n71000 Sarajevo\nBOSNIA AND HERZEGOVINA",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Botswana",
+            "uuid": "f0809fec-f7f1-4523-8d1e-96a54be63579",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Brazil",
+            "uuid": "98985747-2d24-4334-b11e-1c3ee88712ae",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "https://www.gov.br/anpd/pt-br",
+                "address": "Autoridade Nacional de Prote\u00e7\u00e3o de Dados\nZona C\u00edvico-Administrativa BL C - Bras\u00edlia, DF,\n 70297-400, \nBRASIL",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Brunei Darussalam",
+            "uuid": "2a08d112-7a8c-4cf3-aeb8-7badcb339695",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Bulgaria",
+            "uuid": "865fd46a-ba40-48ad-aeb6-7b94256cd84c",
+            "meta": {
+                "protection_level": 6,
+                "regulation_website": "http://www.cpdp.bg/",
+                "address": "Bulgarian Commission for Personal Data Protection\n2 Prof. Tsvetan Lazarov Blvd.\nSofia 1592\nBULGARIA",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Burkina Faso",
+            "uuid": "0619a7fa-b73b-433e-b1df-72c03b579429",
+            "meta": {
+                "protection_level": 3,
+                "regulation_website": "http://www.cil.bf/",
+                "address": "Commission de l'Informatique et des Libert\u00e9s\nBoulevard Mouammar Kadhafi\n01 BP 1606 Ouagadougou 01\nBURKINA FASO",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Burundi",
+            "uuid": "7d46862e-fd5d-48f1-9ecf-b6d53b91cedf",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Cambodia",
+            "uuid": "5b6076f8-5076-49e5-bbea-9245fca7f11d",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Cameroon",
+            "uuid": "22c41628-1449-4802-aed2-e20650ff805e",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Canada",
+            "uuid": "1046b5e7-1215-459d-9151-af0f0cf51620",
+            "meta": {
+                "protection_level": 4,
+                "regulation_website": "https://www.priv.gc.ca/fr/",
+                "address": "Commissariat \u00e0 la protection de la vie priv\u00e9e du Canada\n30, rue Victoria\nGatineau (Qu\u00e9bec)\nK1A 1H3\nCANADA",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Cape Verde",
+            "uuid": "92e6d9fb-a050-4339-bc76-20e8047571be",
+            "meta": {
+                "protection_level": 3,
+                "regulation_website": "",
+                "address": "Comiss\u00e3o Nacional de Prote\u00e7\u00e3o de Dados Pessoais - Avenida China, Rampa Terra Branca\nPraia, Santiago, Cabo Verde",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Chile",
+            "uuid": "9b1693cc-b8f5-48a6-97c6-b754da1ccfd7",
+            "meta": {
+                "protection_level": 3,
+                "regulation_website": "https://www.consejotransparencia.cl/en/about-us/",
+                "address": "Chilean Transparency Council (CPLT)\nMorande 360, Piso 7\nSantiago",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "China",
+            "uuid": "f06c8bba-8a26-4c16-a231-0db4ee3b134f",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Cyprus",
+            "uuid": "cfc3d508-47d4-42e3-9639-c12db68dafd7",
+            "meta": {
+                "protection_level": 6,
+                "regulation_website": "http://www.dataprotection.gov.cy",
+                "address": "Office of the Commissioner for Personal Data Protection\nP.O. Box 23378\n1682 Nicosia\nCYPRUS",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Colombia",
+            "uuid": "9f98edc2-4842-4afc-aa6e-c387f73cff40",
+            "meta": {
+                "protection_level": 3,
+                "regulation_website": "http://www.sic.gov.co/",
+                "address": "Superintendencia de Industria y Comercio\nCarrera 13 No. 27 - 00\nBogota, Columbia",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Comoros",
+            "uuid": "ec40a5e0-f5fd-4181-9330-59ec84e034ab",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Congo",
+            "uuid": "d730ab6d-f8d3-48f9-a763-77f268619f79",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "North Korea",
+            "uuid": "d5f360de-c0da-426b-b58e-c4cda06190d7",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "South Korea",
+            "uuid": "572a7454-09cf-4a6c-8753-8287618352d8",
+            "meta": {
+                "protection_level": 5,
+                "regulation_website": "http://www.pipc.go.kr/cmt/main/english.do",
+                "address": "Personal Information Protection Commission\n4th floor, Government Complex Seoul, 209, Sejong-daero, Jongno-gu\nSeoul\nKorea Republic",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Costa Rica",
+            "uuid": "44aa5b20-8984-416e-b9ca-d9bb84592cca",
+            "meta": {
+                "protection_level": 3,
+                "regulation_website": "http://www.prodhab.go.cr/",
+                "address": "Agencia de Protecci\u00f3n de Datos de los Habitantes (PRODHAB)\nSan Pedro de Montes de Oca, Alameda, \nAvenida 7 y Calle 49, Edificio Da Vinci",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "C\u00f4te d'Ivoire",
+            "uuid": "2a0282dc-8fbd-4367-bcec-3eaa53297a3b",
+            "meta": {
+                "protection_level": 3,
+                "regulation_website": "http://www.artci.ci/",
+                "address": "Autorit\u00e9 de R\u00e9gulation des T\u00e9l\u00e9communications / TIC de la C\u00f4te d'Ivoire\n18 BP 2203 Abidjan 18 \nC\u00f4te d'Ivoire",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Croatia",
+            "uuid": "7dd8c8f0-9d73-4ab7-ba5c-3341c5651753",
+            "meta": {
+                "protection_level": 6,
+                "regulation_website": "https://azop.hr/",
+                "address": "Croatian Personal Data Protection Agency\nSelska cesta 136\nHR - 10 000 Zagreb\nCROATIA",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Cuba",
+            "uuid": "66a11549-00bb-4cae-9106-6b6a52d0bd03",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Denmark",
+            "uuid": "82e886bf-17b1-4cdd-a497-be4e0257e353",
+            "meta": {
+                "protection_level": 6,
+                "regulation_website": "http://www.datatilsynet.dk",
+                "address": "The Danish Data Protection Agency\nDatatilsynet\nCarl Jacobsens Vej 35\nDK-2500 Valby",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Djibouti",
+            "uuid": "51dc2d53-3153-4fb4-83e2-14d661e88c16",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Dominica",
+            "uuid": "b972d298-0bc9-4ae2-b385-2ec944c14a95",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Egypt",
+            "uuid": "4011e4ea-e84c-4310-b8f1-4d291f7f06ad",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "United Arab Emirates",
+            "uuid": "ca96f164-7197-44a3-b64d-8189d8fdfb95",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Ecuador",
+            "uuid": "460879f6-63e4-47b9-adfc-030608f0a2ac",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Eritrea",
+            "uuid": "f2989a02-0e1c-4879-93a3-3670dfe16696",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Spain",
+            "uuid": "b1c39dfb-a29f-4a2e-9df1-6ad08184cb83",
+            "meta": {
+                "protection_level": 6,
+                "regulation_website": "http://www.agpd.es",
+                "address": "Agencia de Protecci\u00f3n de Datos\nC/ Jorge Juan, 6 \n28001-Madrid\nEspagne",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Estonia",
+            "uuid": "fa964795-173b-47f8-96b2-6b2e3a0fbcd7",
+            "meta": {
+                "protection_level": 6,
+                "regulation_website": "http://www.aki.ee/et",
+                "address": "Estonian Data Protection Inspectorate \nAndmekaitse Inspektsioon\n39 Tatari St.\n10134 Tallinn\nESTONIE",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "United States",
+            "uuid": "6099cb33-c7ef-49f1-9783-0f4e99800535",
+            "meta": {
+                "protection_level": 4,
+                "regulation_website": "https://www.dataprivacyframework.gov/s/",
+                "address": "U.S. Department of Commerce\nData Privacy Framework Program\n1401 Constitution Avenue, N.W.\nRoom 11018\nWashington, D.C. 20230\nETATS UNIS",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Ethiopia",
+            "uuid": "9acac57b-f247-450d-8810-a85324bf6cc2",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Fiji",
+            "uuid": "04255082-edad-41b4-99fd-59021252b0b9",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Finland",
+            "uuid": "a42df8c3-bbf7-425d-af5e-08605a265cb6",
+            "meta": {
+                "protection_level": 6,
+                "regulation_website": "http://www.tietosuoja.fi/fi/index.html",
+                "address": "Office of the Data Protection Ombudsman\nP.O. Box 800\nFIN-00521 HELSINKI \nFINLANDE",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "France",
+            "uuid": "0a438d78-8036-463b-9726-c45621c3b778",
+            "meta": {
+                "protection_level": 6,
+                "regulation_website": "https://www.cnil.fr",
+                "address": "Commission nationale de l'informatique et des libert\u00e9s (CNIL)\n3 Place de Fontenoy \nTSA 80715 \n75334 PARIS CEDEX 07",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Gabon",
+            "uuid": "2588c27d-3f44-4400-8a2a-e9e267364350",
+            "meta": {
+                "protection_level": 3,
+                "regulation_website": "https://www.cnpdcp.ga",
+                "address": "Commission nationale de protection des donn\u00e9es \u00e0 caract\u00e8re personnel (CNPDCP)\nKalikak derri\u00e8re l'Okoum\u00e9 Palace\nLibreville",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Gambia",
+            "uuid": "56738620-f8b3-45a9-9266-31ca2690c271",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Georgia",
+            "uuid": "05224bac-614b-4df3-a31e-c864ad3fa9a1",
+            "meta": {
+                "protection_level": 3,
+                "regulation_website": "https://personaldata.ge/en",
+                "address": "Office of the Personal Data Protection inspector of Georgia\n7, Vachnadze Str. 0105, Tbilisi, Georgia",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Ghana",
+            "uuid": "0c72f385-7775-454a-83b6-c634500a56ff",
+            "meta": {
+                "protection_level": 3,
+                "regulation_website": "https://www.moc.gov.gh/agencies/data-protection-commission-dpc",
+                "address": "Data Protection Commission ('Commission')\nPawpaw Street - East Legon\nAccra\nGhana",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Gibraltar",
+            "uuid": "a52f8889-a5a3-46e8-987f-0fe6f91c6bc8",
+            "meta": {
+                "protection_level": 3,
+                "regulation_website": "http://www.gra.gi/",
+                "address": "Gibraltar Regulatory Authority\n2nd floor\nEurotowers 4\n1 Europort Road\nGIBRALTAR",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Greece",
+            "uuid": "3ec4ded0-2944-4740-9aa4-5a772e9ca55d",
+            "meta": {
+                "protection_level": 6,
+                "regulation_website": "http://www.dpa.gr",
+                "address": "Hellenic Data Protection Authority\nKifisias Avenue 1-3\n115 23 Athens\nGRECE",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Grenada",
+            "uuid": "12bb5951-59d9-4b7f-92ca-2272350b8172",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Greenland",
+            "uuid": "ecf0709e-5b6d-41c2-91e9-6d6116acfb0a",
+            "meta": {
+                "protection_level": 3,
+                "regulation_website": "http://www.datatilsynet.dk",
+                "address": "The Danish Data Protection Agency\nDatatilsynet\nCarl Jacobsens Vej 35\nDK-2500 Valby",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Guadeloupe",
+            "uuid": "3d555bf7-847e-4b62-addc-bbb5c169686c",
+            "meta": {
+                "protection_level": 6,
+                "regulation_website": "https://www.cnil.fr",
+                "address": "CNIL \n3 Place de Fontenoy - TSA 80715 - \n75334 PARIS CEDEX 07",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Guatemala",
+            "uuid": "5de1d36a-8608-4cfe-b1d4-e666cd7bc9c7",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Guernsey",
+            "uuid": "df8b631a-346e-4533-9006-0aa379524230",
+            "meta": {
+                "protection_level": 5,
+                "regulation_website": "https://odpa.gg/about-us",
+                "address": "Data Protection Office\nGuernsey Information Centre\nNorth Esplanade, St Peter Port\nGuernsey,  GY1 2LQ,  Channel Islands",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Guinea",
+            "uuid": "e1dde88b-0e36-4d9f-ac3d-738ce2032433",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Equatorial Guinea",
+            "uuid": "a65dd59f-c6c7-473f-8be8-49dea9dfc246",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Guinea-Bissau",
+            "uuid": "56fceab9-df3e-4145-9fed-1750e792a0e5",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Guyana",
+            "uuid": "c0d74264-98de-455a-a25a-2fe1c70e6a7c",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "French Guiana",
+            "uuid": "19c0ced9-0a97-4832-9b9b-ddf4f0ba11ef",
+            "meta": {
+                "protection_level": 6,
+                "regulation_website": "https://www.cnil.fr",
+                "address": "CNIL \n3 Place de Fontenoy - TSA 80715\n75334 PARIS CEDEX 07",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Haiti",
+            "uuid": "7c57c48d-4a1e-4290-9b4b-94176be78edc",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Honduras",
+            "uuid": "b06b013d-2ead-4e74-8610-498134c1a0d4",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Hong Kong",
+            "uuid": "85d421c4-eaf0-46c6-8e1b-c44073c9796a",
+            "meta": {
+                "protection_level": 3,
+                "regulation_website": "http://www.pcpd.org.hk/",
+                "address": "Office of the Privacy Commissioner for Personal Data\n12/F, Sunlight Tower\n248 Queen's Road East,\nWanchai,\nHONG KONG",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Hungary",
+            "uuid": "704f681e-4d7f-4ca9-a081-7c4e8f0a62ac",
+            "meta": {
+                "protection_level": 6,
+                "regulation_website": "http://www.naih.hu/general-information.html",
+                "address": "National Authority for Data Protection and Freedom of Information\n9-11, Falk Miksa u.\n1055 Budapest\nHUNGARY",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Isle Of Man",
+            "uuid": "834acbfa-6628-4c31-898b-eb0a5971fd7c",
+            "meta": {
+                "protection_level": 5,
+                "regulation_website": "https://www.inforights.im/",
+                "address": "Isle of Man Information Commissioner\nP.O. Box 69\nDouglas\nIsle of Man\nIM99 1EQ",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Cayman Islands",
+            "uuid": "fb39132a-a2e1-4dc4-8671-c85c6944396f",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Faroe Islands",
+            "uuid": "b2616ef1-70e5-4188-9dec-a4617c218bed",
+            "meta": {
+                "protection_level": 5,
+                "regulation_website": "http://www.dat.fo/",
+                "address": "D\u00e1tueftirliti\u00f0\nTinganes\nPostboks 300\nFO-110 T\u00f3rshavn",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "India",
+            "uuid": "b7645bd7-41d0-4274-89fe-09a42f0b24cd",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Indonesia",
+            "uuid": "9425ee93-2b4c-41ed-baad-00fc1b0e1d4c",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Iran",
+            "uuid": "33658dc1-0e55-48a5-b75e-a59c7f033823",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Irak",
+            "uuid": "a160b8d3-bcac-48e6-b36c-817c9399b501",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Ireland",
+            "uuid": "b797071d-97a3-4fcd-b7ae-17de56d4a2a0",
+            "meta": {
+                "protection_level": 6,
+                "regulation_website": "http://www.dataprivacy.ie",
+                "address": "Office of the Data protection Commissioner\nCanal House\nStation Road\nPortarlington\nCo. Laois\nIRLANDE",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Iceland",
+            "uuid": "7fa2c68e-541c-4a14-8ddc-aceb6bb4c364",
+            "meta": {
+                "protection_level": 6,
+                "regulation_website": "http://www.personuvernd.is",
+                "address": "Pers\u00f3nuvernd\nRau\u00f0ar\u00e1rst\u00edg 10\n105 Reykjav\u00edk\nICELAND",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Israel",
+            "uuid": "be35b0e6-15b2-462a-a844-4a75af19ccbf",
+            "meta": {
+                "protection_level": 5,
+                "regulation_website": "https://www.gov.il/en/departments/the_privacy_protection_authority/govil-landing-page",
+                "address": "Privacy Protection Authority\nGovernment Complex, P.O. Box 7360\nTel Aviv, 6107202\nISRAEL",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Italy",
+            "uuid": "2dbc8a0d-3d79-4cba-b7fb-2409b2de296d",
+            "meta": {
+                "protection_level": 6,
+                "regulation_website": "http://www.garanteprivacy.it/",
+                "address": "Garante per la protezione dei dati personali\nPiazza Venezia 11\n00187 Roma\nItalia",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Jamaica",
+            "uuid": "8bb74dc8-b60e-4951-8845-15cfbde79c5e",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Japan",
+            "uuid": "075cbba6-4fec-4d0b-a487-984a30e46679",
+            "meta": {
+                "protection_level": 5,
+                "regulation_website": "http://www.ppc.go.jp/en/",
+                "address": "Personal Information Protection Commission\nCommon Gate West Building 32F, 3-Chome-2-1 Kasumigaseki,\nChiyoda City, Tokyo 105-0013\nJAPON",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Jersey",
+            "uuid": "415b6fda-bcd5-485f-b956-00f663a2d917",
+            "meta": {
+                "protection_level": 5,
+                "regulation_website": "https://jerseyoic.org/",
+                "address": "Office of the Information Commissioner\nBrunel House, Old Street\nSt Helier\nJersey JE2 3RG",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Jordan",
+            "uuid": "f72093dc-efb5-40d8-8535-7828e149e264",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Kazakhstan",
+            "uuid": "7b142dec-ca8b-45b2-9e48-0084afcbc962",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Kenya",
+            "uuid": "702b90d7-a7ba-459b-8b4e-1816fc1ad1ec",
+            "meta": {
+                "protection_level": 3,
+                "regulation_website": "https://www.odpc.go.ke/",
+                "address": "Office of Information Commissioner\nP.O Box 30920-00100 \nG.P.O, Nairobi\nKENYA",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Kyrgyzstan",
+            "uuid": "01cf892f-cd41-4291-8e26-98aa37557dcc",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Kiribati",
+            "uuid": "9409a5f5-6f29-4b4b-84d0-03282d0a16a4",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Kosovo",
+            "uuid": "6bfa2ca7-7dad-4e80-bf53-1750c9f69717",
+            "meta": {
+                "protection_level": 3,
+                "regulation_website": "",
+                "address": "Agjencia Shteterore per Mbrojtjen e te Dhenave Peronale\nRruga \"Luan Haradinaj\" nr. 36,\n10 000 Prishtine\nRepublika e Kosoves",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Kuwait",
+            "uuid": "20df3bb9-b4c8-41ce-b2d5-b43198bb90ed",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Laos",
+            "uuid": "757899e5-c4e5-4a93-b1e5-97cad8419a4e",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Lesotho",
+            "uuid": "00e53329-4506-433f-acfa-48133a055fed",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Latvia",
+            "uuid": "45c3c08b-6518-41a9-a554-b4c42aebe543",
+            "meta": {
+                "protection_level": 6,
+                "regulation_website": "http://www.dvi.gov.lv",
+                "address": "Datu Valsts Inspekcija\nData State Inspectorate\nBlaumana Street 11/13-11\nRiga, LV-1011\nLATVIA",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Lebanon",
+            "uuid": "c9466790-2f5c-4359-a97b-5044d87dc01e",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Liberia",
+            "uuid": "70b17e10-8e2a-4357-b1d7-ecea0bb53785",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Libya",
+            "uuid": "635c19ad-1931-4516-8c62-898afa772dc9",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Liechtenstein",
+            "uuid": "d7ce0337-18b7-4680-b374-4219c785090d",
+            "meta": {
+                "protection_level": 6,
+                "regulation_website": "http://www.dss.llv.li/",
+                "address": "Data Protection Commissioner of the Principality of Liechtenstein\nDatenschutzstelle (DSS)\nKirchstrasse 8\nPostfach 684\n9490 Vaduz\nLIECHTENSTEIN",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Lithuania",
+            "uuid": "6ce96e7d-4b85-484c-8c23-673915a92094",
+            "meta": {
+                "protection_level": 6,
+                "regulation_website": "http://www.ada.lt",
+                "address": "Valstybin\u0117 duomen\u0173 apsaugos inspekcija\nState Data Protection Inspectorate of the Republic of Lithuania\nL. Sapiegos str. 17\nLT-10312 Vilnius\nLITHUANIA",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Luxembourg",
+            "uuid": "3d815999-892f-430b-a158-129dbfd42e71",
+            "meta": {
+                "protection_level": 6,
+                "regulation_website": "http://www.cnpd.lu/",
+                "address": "Commission nationale pour la protection des donn\u00e9es\n15, Boulevard du Jazz\nL-4370 Belvaux",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Macao",
+            "uuid": "692b1339-62da-4df1-8d7a-48e7c432b634",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "North Macedonia",
+            "uuid": "b3401f80-3e7b-420a-beb4-240d2956ddad",
+            "meta": {
+                "protection_level": 3,
+                "regulation_website": "https://dzlp.mk/en",
+                "address": "Direction de la protection des donn\u00e9es personnelles\nGotse Deltchev Blvd 18\nPost Office box 417\n1000 Skopje",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Madagascar",
+            "uuid": "01cc1434-a71d-4025-97ab-118159e62390",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "Commission malagasy de l'informatique et des libert\u00e9s (CMIL) en cours d'installation",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Malaysia",
+            "uuid": "3532e666-fc30-41a6-b6ca-6cf5c60495c3",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "https://www.pdp.gov.my/jpdpv2/contact-us/maklumat-umum/location/?lang=en",
+                "address": "Personal Data Protection Department (PDPD) / Ministry of Communications and Multimedia Commission (MCMC)\nAras 6, Kompleks Kementerian Komunikasi dan Multimedia,\nLot 4G9, Persiaran Perdana, Presint 4 Pusat Pentadbiran Kerajaan Persekutuan,\n62100 Putrajaya\nMalaysia",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Malawi",
+            "uuid": "6cd95eec-e84a-48a3-91d8-27f8ef5d3764",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Maldives",
+            "uuid": "595e92a2-50c5-42ba-8c23-f9ab18c7f78f",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Mali",
+            "uuid": "496e826a-a5ad-4c63-8156-63bc1652c901",
+            "meta": {
+                "protection_level": 3,
+                "regulation_website": "http://www.apdp.ml",
+                "address": "Autorit\u00e9 de Protection des Donn\u00e9es \u00e0 caract\u00e8re Personnel (APDP)\nAvenue Moussa Trav\u00e9l\u00e9, Porte 462\nBP E 4596 Bamako\nMALI",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Malta",
+            "uuid": "2ce1f37c-a0a6-4883-a203-ce37c8a3deb9",
+            "meta": {
+                "protection_level": 6,
+                "regulation_website": "http://www.dataprotection.gov.mt",
+                "address": "Office of the Information and Data Protection Commissioner\nAirways House, Second Floor\nHigh Street \nSliema SLM 1549\nMALTA",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Morocco",
+            "uuid": "47e9101a-4231-44bb-8216-b6a4cd7e16cd",
+            "meta": {
+                "protection_level": 3,
+                "regulation_website": "http://www.cndp.ma/",
+                "address": "Commission Nationale de contr\u00f4le de la protection des Donn\u00e9es \u00e0 caract\u00e8re Personnel (C.N.D.P.)\nImmeuble Les Patios, 3\u00e8me \u00e9tage \n6 boulevard Annakhil\nHay Riad\nRabat\nMaroc   ",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Marshall Islands",
+            "uuid": "f7b73735-590f-4715-b890-fed2007ed195",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Martinique",
+            "uuid": "17252c32-cfd6-4bf3-a9c8-8f42b72b6849",
+            "meta": {
+                "protection_level": 6,
+                "regulation_website": "https://www.cnil.fr",
+                "address": "CNIL \n3 Place de Fontenoy - TSA 80715 - \n75334 PARIS CEDEX 07",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Mauritius",
+            "uuid": "9c5ab796-39f2-4d92-83a1-a98654af4226",
+            "meta": {
+                "protection_level": 3,
+                "regulation_website": "https://dataprotection.govmu.org/Pages/About%20Us/About-the-Office.aspx",
+                "address": "Data Protection Office\n5th Floor, SICOM Tower, \nWall Street, Ebene, \nRepublic of Mauritius",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Mauritania",
+            "uuid": "bb7cc8f7-ed75-490c-914c-95cbd76ffe97",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Mayotte",
+            "uuid": "a97a7704-09de-447d-a10a-c4aa21663cf3",
+            "meta": {
+                "protection_level": 6,
+                "regulation_website": "https://www.cnil.fr",
+                "address": "Commission nationale de l'informatique et des libert\u00e9s (CNIL )\n3 Place de Fontenoy \nTSA 80715 \n75334 PARIS CEDEX 07",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Mexico",
+            "uuid": "ffa7b993-8224-47a2-8a70-bfa7f313d5d7",
+            "meta": {
+                "protection_level": 3,
+                "regulation_website": "https://home.inai.org.mx/",
+                "address": "INAI \u2013 Instituto Nacional de Transparencia, Acceso a la Informaci\u00f3n y Protecci\u00f3n de Datos Personales\nAv. Insurgentes Sur #3211\nCol. Insurgentes Cuicuilco\nDelegaci\u00f3n Coyoac\u00e1n\nC.P. 04530, Distrito Federal\nM\u00e9xico",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Micronesia",
+            "uuid": "2d121bf3-9c00-42ad-9db6-1e48b0fb3d43",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Moldova",
+            "uuid": "d41a5eb7-e874-465b-814d-1c054e0bf013",
+            "meta": {
+                "protection_level": 3,
+                "regulation_website": "http://www.datepersonale.md/en/start/",
+                "address": "National Center for Personal Data Protection\n48, Serghei Lazo str., \nMD-2004 Chisinau\nMOLDAVIE",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Monaco",
+            "uuid": "89399132-0818-47a4-80ae-f4b2981110b4",
+            "meta": {
+                "protection_level": 3,
+                "regulation_website": "http://www.ccin.mc",
+                "address": "Commission de contr\u00f4le des informations nominatives\n\u00ab Le Suffren \u00bb Bloc B, 4\u00e8me \u00e9tage, \n7 rue Suffren Reymond,\n98000 Monaco",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Mongolia",
+            "uuid": "bd8ad9a6-bba4-4da3-a0df-9c7304cdb93d",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Montenegro",
+            "uuid": "ccbb78c6-2c34-45c9-b23d-d5baee6fd640",
+            "meta": {
+                "protection_level": 3,
+                "regulation_website": "http://www.azlp.me/me/agencija",
+                "address": "Agency for Protection of Personal Data and Free Access to Information (DPA) \nBulevar Svetog Petra Cetinjskog 147 Podgorica",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Mozambique",
+            "uuid": "ad32c5cb-83c6-4e0b-9999-6ae75a2fbf8e",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Namibia",
+            "uuid": "62f9df08-a73e-433b-81de-d70aa3cbba20",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Nauru",
+            "uuid": "a0b38899-b572-4f14-bfb6-f964ce03e2f6",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Nepal",
+            "uuid": "8127bf4d-364d-4339-a9bb-fed6ae256a98",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Nicaragua",
+            "uuid": "e107ba3e-1b99-4e49-9091-0b4c2def3b26",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Niger",
+            "uuid": "7c7aa7bc-3eb5-4c7f-bfc2-855ede0a8803",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "https://www.hapdp.ne",
+                "address": "Haute Autorit\u00e9 de Protection des Donn\u00e9es \u00e0 caract\u00e8re Personnel\nBoulevard de l\u2019ind\u00e9pendance, Quartier ANY KOUARA, Porte 2296\nBP 13053 Niamey\nNIGER\n\n",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Nigeria",
+            "uuid": "7961fcb0-8d62-4df4-b3da-fa4d0b60b0eb",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Norway",
+            "uuid": "25b83680-a550-4688-84d8-f51b63bf7fde",
+            "meta": {
+                "protection_level": 6,
+                "regulation_website": "http://www.datatilsynet.no",
+                "address": "Datatilsynet\nPO. Box 458 Sentrum\n0105 Oslo\nNORWAY",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "New Caledonia",
+            "uuid": "574bb134-c0ee-48b7-b836-45a4e7e72cd2",
+            "meta": {
+                "protection_level": 6,
+                "regulation_website": "https://www.cnil.fr",
+                "address": "Commission nationale de l'informatique et des libert\u00e9s (CNIL )\n3 Place de Fontenoy \nTSA 80715 \n75334 PARIS CEDEX 07",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "New Zealand",
+            "uuid": "8e0ee7e2-553b-4bbb-b397-09618ef8e533",
+            "meta": {
+                "protection_level": 5,
+                "regulation_website": "http://www.privacy.org.nz",
+                "address": "The Office of the Privacy Commissioner\nPO Box 10-094, The Terrace, Wellington 6143\nNOUVELLE ZELANDE",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Oman",
+            "uuid": "bd36081a-b8d3-4064-b34a-0c7af5dc9af8",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Uganda",
+            "uuid": "23bca40c-4532-487e-9aaa-7802259e299d",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "https://www.pdpo.go.ug/home",
+                "address": "Personal Data Protection Office\nPalm Courts, Plot 7A Lugogo By-Pass, \nKampala, \nUGANDA",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Uzbekistan",
+            "uuid": "82906ebf-0ff7-47ec-a2a0-b940e5aef459",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Pakistan",
+            "uuid": "23b20f52-9653-4c21-a676-fa23cc531c3a",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Palau",
+            "uuid": "f43e2b6d-b05d-430b-a18f-90c029582f29",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Palestine",
+            "uuid": "1bedcbd3-f768-4fef-bdd5-cb53fe4e618c",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Panama",
+            "uuid": "c96bc199-ca83-45d6-8dd8-b41beb288e52",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "https://www.antai.gob.pa/",
+                "address": "Autoridad Nacional de Transparencia y Acceso a la Informaci\u00f3n, Directorate for PPD\nDel Prado Avenue, Bulding 713, \nBalboa, Ancon, \nPANAMA",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Papua New Guinea",
+            "uuid": "89e0ab7c-f4e3-4d48-bf83-3a44ab61262d",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Paraguay",
+            "uuid": "409058e2-b174-43fd-bf95-7aa9ab6ba5d0",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Netherlands",
+            "uuid": "06339fdb-de8b-4caf-8d89-9d8b2e6d9736",
+            "meta": {
+                "protection_level": 6,
+                "regulation_website": "https://www.autoriteitpersoonsgegevens.nl/",
+                "address": "Dutch Data Protection Authority\nPostbus 93374\n2509 AJ DEN HAAG \nPAYS BAS",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Peru",
+            "uuid": "dc6acb25-1252-4a38-b8f8-43cc42b2ef70",
+            "meta": {
+                "protection_level": 3,
+                "regulation_website": "https://www.gob.pe/minjus",
+                "address": "General Directorate of Transparency, Access to Public Information and Protection of Personal Data\nScipi\u00f3n Llona 350\nMiraflores, Lima L-18\nPERU",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Philippines",
+            "uuid": "4f202659-1721-4e4e-bd37-da053cddfec9",
+            "meta": {
+                "protection_level": 3,
+                "regulation_website": "https://privacy.gov.ph/",
+                "address": "National Privacy Commission\n5th Floor Delegation Building, PICC Complex\nRoxas Blvd, Pasay,\nMetro Manila, Philippines",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Poland",
+            "uuid": "954aacfd-2208-4e80-99ce-1e56573cd06d",
+            "meta": {
+                "protection_level": 6,
+                "regulation_website": "https://uodo.gov.pl/",
+                "address": "Urz\u0105d Ochrony Danych Osobowych (UODO)\nul. Stawki 2\n00-193 Warsaw\nPOLAND",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "French Polynesia",
+            "uuid": "70460ced-34fc-4323-aee2-106c880519f2",
+            "meta": {
+                "protection_level": 6,
+                "regulation_website": "https://www.cnil.fr",
+                "address": "Commission nationale de l'informatique et des libert\u00e9s (CNIL )\n3 Place de Fontenoy \nTSA 80715 \n75334 PARIS CEDEX 07",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Puerto Rico",
+            "uuid": "13fed1f8-6b81-4e3d-b2b8-68345dd22965",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "http://www.export.gov/safeharbor",
+                "address": "Federal Trade Commission FTC\n600 Pennsylvania Avenue NW\nDC 25080 Washington\nETATS UNIS",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Portugal",
+            "uuid": "55d9a412-bf8e-47ab-80d9-928f650a28e7",
+            "meta": {
+                "protection_level": 6,
+                "regulation_website": "https://www.cnpd.pt/",
+                "address": "Comiss\u00e3o Nacional de Protec\u00e7\u00e3o de Dados\nAv. D. Carlos I, 134 - 1.\u00ba\n1200-651 Lisboa\nPortugal",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Qatar",
+            "uuid": "f2d186d2-ab4d-4204-9924-f3001bd6bf05",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Congo, The Democratic Republic Of The",
+            "uuid": "7e0714e6-2e39-42a1-9d1f-80af8fecdd14",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Central African Republic",
+            "uuid": "1b511d9d-f8b6-4ca7-871c-3f7e315f7168",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Dominican Republic",
+            "uuid": "bfa13001-8df0-40f6-b625-264ecbf10c4b",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Czech Republic",
+            "uuid": "fad9afa5-5d78-434c-b075-8b3e0d2cdece",
+            "meta": {
+                "protection_level": 6,
+                "regulation_website": "http://www.uoou.cz",
+                "address": "Office for Personal Data Protection\nPplk. Sochora 27\n170 00 Praha 7\nCZECH REPUBLIC",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "R\u00e9union",
+            "uuid": "0e21a04b-55bb-4d85-9194-4cca7c3d1a20",
+            "meta": {
+                "protection_level": 6,
+                "regulation_website": "https://www.cnil.fr",
+                "address": "CNIL \n3 Place de Fontenoy - TSA 80715 - \n75334 PARIS CEDEX 07",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Romania",
+            "uuid": "4a6acb44-0627-49a2-9edd-b840161b8396",
+            "meta": {
+                "protection_level": 6,
+                "regulation_website": "http://www.dataprotection.ro",
+                "address": "The National Supervisory Authority for Personal Data Processing\n28-30 G-ral Gheorghe Magheru Bld.\nDistrict 1, post code 010336\nBucurest\nROMANIA",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "United Kingdom",
+            "uuid": "5c534434-b7ea-41ff-b31c-f9499ec43a07",
+            "meta": {
+                "protection_level": 5,
+                "regulation_website": "https://ico.org.uk/",
+                "address": "Information Commissioner's Office \nWycliffe House Water Lane\nWilmslow\nCheshire SK9 5AF\nROYAUME UNI",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Russian Federation",
+            "uuid": "6f5c7bfb-50a4-42ee-ae17-361de9ff0a65",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "http://rkn.gov.ru/eng/",
+                "address": "Federal Service for Supervision of Communications, Information Technology, and Mass Media (Roskomnadzor)\n7, bldg 2\nKitaigorodskiy proezd\nMoscow, 109074\nRUSSIA",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Rwanda",
+            "uuid": "be30c535-3a27-447c-ad3d-620d3aae149a",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "https://cyber.gov.rw/about/",
+                "address": "National Cyber Security Authority\n5th Floor,Telecom House, 8 KG 7 St, \nKacyiru, \nKIGALI-RWANDA",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Western Sahara",
+            "uuid": "c6f2c2df-ece6-444b-bf9f-7845d7c67957",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Saint Kitts And Nevis",
+            "uuid": "7f42f90c-15be-4fee-8878-cfae3e4c4900",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Saint Lucia",
+            "uuid": "a55b23fd-041d-462a-b25a-9ee479f86172",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "San Marino",
+            "uuid": "ab79e5a3-59ee-48bb-b834-697ed526e52e",
+            "meta": {
+                "protection_level": 3,
+                "regulation_website": "https://www.garanteprivacy.sm/pub1/garante/en/",
+                "address": "Autorit\u00e0 Garante per la Protezione dei Dati Personali\nContrada Omerelli, \n43 - 47890 \nSAN MARINO",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Saint Vincent and The Grenadines",
+            "uuid": "bfe2ed5d-4c10-4781-9dc0-417a4ae8d56d",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Solomon Islands",
+            "uuid": "cdb0737b-a00a-4cc3-a00f-e46521ff18e6",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Salvador",
+            "uuid": "a33a298e-2fc0-43a0-a2d0-b0eb4a3e986a",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Samoa",
+            "uuid": "ea3adf94-ee89-448e-b51b-1435f28c5eb9",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Sao Tome and Principe",
+            "uuid": "4acd02da-1a5c-411f-b8f5-76c4bde5f6b9",
+            "meta": {
+                "protection_level": 3,
+                "regulation_website": "https://www.anpdp.st/",
+                "address": "Agencia Nacional de Protec\u00e7\u00e3o de Dados Pessoais\nHb Building,Tv. do Pelourinho, \n1\u00ba Esquerdo, \nSAO TOME-ET-PRINCIPE",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Senegal",
+            "uuid": "04d5d66d-3c05-41a5-9212-139903b1d0cc",
+            "meta": {
+                "protection_level": 3,
+                "regulation_website": "http://www.cdp.sn/",
+                "address": "Commission de Protection des Donn\u00e9es Personnelles\n76, Mermoz Pyrotechnie VDN Dakar, \n25528, \nS\u00e9n\u00e9gal",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Serbia",
+            "uuid": "33b536f2-3218-49da-b756-7c1e6373823d",
+            "meta": {
+                "protection_level": 3,
+                "regulation_website": "https://www.poverenik.rs/en",
+                "address": "Commissioner for Information of Public Importance and Personal Data Protection\n15, Bulevar kralja Aleksandra str\nBelgrade 11000 ",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Seychelles",
+            "uuid": "5e3cc9a4-19ce-441b-99df-6d65d5f44bcd",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Sierra Leone",
+            "uuid": "56363b8c-09ae-4c03-a99c-dfdf9cdfba76",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Singapore",
+            "uuid": "f77c91fa-f466-4e87-81b6-e9921e4508ed",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "https://www.pdpc.gov.sg/",
+                "address": "Personal Data Protection Commission\n10 Pasir Panjang Road #03-01\nMapletree Business City\nSingapore 117438",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Slovakia",
+            "uuid": "a1d192d2-f797-4401-9b4b-d8e3147201ad",
+            "meta": {
+                "protection_level": 6,
+                "regulation_website": "http://www.dataprotection.gov.sk",
+                "address": "The Office for Personal Data the Protection\n\u00darad na ochranu osobn\u00fdch \u00fadajov\nHrani\u010dn\u00e1 12\n820 07 Bratislava 27\nSLOVAK REPUBLIC",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Slovenia",
+            "uuid": "89c2312f-fc2f-4fec-a026-21b4753eb4e5",
+            "meta": {
+                "protection_level": 6,
+                "regulation_website": "https://www.ip-rs.si/",
+                "address": "Information Commissioner\nNamestnik varuha clovekovih pravic\nDunajska cesta 22\nSI-1000 Ljubljana\nSLOVENIA\n\n",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Somalia",
+            "uuid": "8176f227-2078-48bb-8b80-7632ea91c14f",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Somaliland",
+            "uuid": "bbd4a838-de0e-402f-bcdd-80d8fad09d51",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Sudan",
+            "uuid": "6536e506-2bce-41b8-95ca-cf5e2a6d8b17",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "South Sudan",
+            "uuid": "9285aade-884e-4629-950e-a398c129773b",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Sri Lanka",
+            "uuid": "36a2ea48-9b07-4e86-9a64-70ef065c2ca4",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Sweden",
+            "uuid": "c8b48255-ed7e-4a38-b192-cb5838060a58",
+            "meta": {
+                "protection_level": 6,
+                "regulation_website": "https://www.imy.se/en",
+                "address": "Integritetsskyddsmyndigheten (IMY)\nBox 8114, 104 20 Stockholm\nSUEDE",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Switzerland",
+            "uuid": "0239df18-1cff-4ebc-b18c-28b0f142e7e7",
+            "meta": {
+                "protection_level": 5,
+                "regulation_website": "http://www.leprepose.ch",
+                "address": "Pr\u00e9pos\u00e9 f\u00e9d\u00e9ral \u00e0 la protection des donn\u00e9es et \u00e0 la transparence\nFeldeggweg 1\n3003 Berne\nSUISSE",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Suriname",
+            "uuid": "5da6ca7a-9c15-499f-af8d-77d34aa0e715",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Eswatini",
+            "uuid": "1d2713fd-d29f-4adb-8caf-330ce7e880b9",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Syria",
+            "uuid": "d1f54037-24a6-4adc-a276-90ce07b1ddd4",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Tajikistan",
+            "uuid": "689de927-9ec3-47f4-94cb-da5c9175be9b",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Taiwan",
+            "uuid": "f9894f1b-10dc-434f-b8a4-d00b7dff5a6b",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "The Ministry of Justice\n130 Sec 1 Chung Ching  South ad\nTAIWAN - TAIPEI 100 ROC 100",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Tanzania",
+            "uuid": "65c7553f-1632-4a3d-be4f-b64d838c65eb",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Chad",
+            "uuid": "6da3f682-4bd0-4559-a01d-b78f238a657c",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "https://ansice.td/",
+                "address": "Agence Nationale de S\u00e9curit\u00e9 Informatique et de Certification \u00c9lectronique\nPorte 507, Avenue Joseph Brahim Se\u00efd, \n5216 N\u2019Djam\u00e9na\nTCHAD",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "French Southern Territories",
+            "uuid": "8ae3d6f1-ec48-4715-a4fb-b5bdfac1dc56",
+            "meta": {
+                "protection_level": 6,
+                "regulation_website": "https://www.cnil.fr",
+                "address": "Commission nationale de l'informatique et des libert\u00e9s\n3 Place de Fontenoy \nTSA 80715 \n75334 PARIS CEDEX 07",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Thailand",
+            "uuid": "ce98c423-bbc0-4cdf-a92a-ee33641464d0",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "Authority for the protection of Personal Data Information Commission\nGovernment House\nBangkok 10300\nTHAILAND",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Timor-Leste",
+            "uuid": "228ea44c-5ad8-4422-88ae-afef8e61d106",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Togo",
+            "uuid": "872474a5-82ef-420c-a9fc-f8ed548be71e",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Tonga",
+            "uuid": "1eb3b739-d2bf-41bb-a372-39bc34f65f60",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Trinidad and Tobago",
+            "uuid": "f7215597-a73c-4e35-864b-f211c54e9339",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Tunisia",
+            "uuid": "9f4060c8-4302-48c7-a0e3-edfaa2739823",
+            "meta": {
+                "protection_level": 3,
+                "regulation_website": "http://www.inpdp.nat.tn/",
+                "address": "Instance Nationale de Protection des Donn\u00e9es \u00e0 Caract\u00e8re Personnel\n1, Rue Mohamed Moalla\nMutuelleville 1002 TUNIS - TUNISIE",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Turkmenistan",
+            "uuid": "c861b029-7dd2-47af-a92c-3638bb253af9",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Turkey",
+            "uuid": "599b5d0e-e5e5-4829-bfff-5e6156e0496f",
+            "meta": {
+                "protection_level": 3,
+                "regulation_website": "https://www.kvkk.gov.tr/",
+                "address": "Personal Data Protection Authority\nNasuh Akar Mah. Ziyabey Cad. 1407. Sok. No: 4\n06520 Balgat-\u00c7ankaya/Ankara",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Tuvalu",
+            "uuid": "63358c11-07ab-4d8a-a8d6-a66c99ae17fa",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Ukraine",
+            "uuid": "f7c68108-4f94-4500-94bc-1e1a8d708726",
+            "meta": {
+                "protection_level": 3,
+                "regulation_website": "www.ombudsman.gov.ua",
+                "address": "The Ukrainian Parliament Commissioner for Human Rights (the Ombudsman Office)\n21/8 Instytutska Str.\n01008 Kyiv\nUkraine",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Uruguay",
+            "uuid": "57a5667f-6de0-4ec0-8b8a-92849c0d7155",
+            "meta": {
+                "protection_level": 5,
+                "regulation_website": "http://www.datospersonales.gub.uy/",
+                "address": "Unidad Reguladora y de Control de Datos Personales (URCDP)\nLiniers 1324 Piso 4\u00b0\nMontevideo\nURUGUAY\n",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Vanuatu",
+            "uuid": "7d2bb1a2-a383-4d08-94cb-7f927c4b6943",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Vatican",
+            "uuid": "8ca33747-ee88-45c2-9745-601d168ae583",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Venezuela",
+            "uuid": "b08bb028-8aa8-4fd3-ace5-ae4b7e3227f8",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Viet Nam",
+            "uuid": "51a2ee96-b802-4400-a290-f92ef64d630a",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Yemen",
+            "uuid": "d20c3c68-67db-419c-8861-18a23a829173",
+            "meta": {
+                "protection_level": 1,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Zambia",
+            "uuid": "e0fccbca-4bec-424e-b31b-05ce37a2c1e0",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "",
+                "address": "",
+                "authority_name": "Not available"
+            }
+        },
+        {
+            "value": "Zimbabwe",
+            "uuid": "b43b8168-523e-4b0a-a8af-7b35bb317904",
+            "meta": {
+                "protection_level": 2,
+                "regulation_website": "www.potraz.gov.zw",
+                "address": "Postal and Telecommunication Regulatory Authority\nP.O. Box MP843, \nMount Pleasant, Harare, \nZIMBABWE",
+                "authority_name": "Not available"
+            }
+        }
+    ]
+}
