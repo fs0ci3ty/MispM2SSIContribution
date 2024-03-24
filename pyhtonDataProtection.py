@@ -3,6 +3,7 @@ import re
 import json
 import uuid
 from urllib.parse import urlparse
+import tldextract  # You need to install this package
 
 
 # Function to remove HTML tags from descriptions
@@ -10,6 +11,33 @@ def clean_html(raw_html):
     cleanr = re.compile('<.*?>')
     cleantext = re.sub(cleanr, '', raw_html)
     return cleantext
+
+
+def get_authority_name(website_url):
+    if not website_url:
+        return ''
+    
+    # Parse the URL and split the path to get individual segments
+    parsed_url = urlparse(website_url)
+    path_segments = [segment for segment in parsed_url.path.strip('/').split('/') if segment]
+
+    # Define lists for generic domain parts and common subdomain prefixes
+    generic_domains = ['gov', 'com', 'org', 'net', 'edu', 'co']
+    common_prefixes = ['www']
+
+    # Extract the domain and subdomain parts
+    domain_parts = parsed_url.netloc.split('.')
+    domain = domain_parts[-2] if len(domain_parts) >= 2 else ''
+
+    subdomain = domain_parts[0] if len(domain_parts) > 2 else ''
+
+    # Use the first significant path segment if the domain is generic and the subdomain is a common prefix
+    if domain in generic_domains and (not subdomain or subdomain in common_prefixes) and path_segments:
+        return path_segments[0]
+    elif subdomain and subdomain not in common_prefixes:
+        return subdomain
+    else:
+        return domain
 
 # Download the JavaScript file
 url = "https://www.cnil.fr/sites/cnil/modules/custom/cnil_map_dpa/assets/js/cnil-map-datas.js"
@@ -53,7 +81,7 @@ for feature in countries_data['features']:
     level_uuid = protection_level_uuids[country_props['levelProtection']]
     website_url = country_props.get('webSite', '')
     parsed_url = urlparse(website_url)
-    authority_name = parsed_url.netloc.split('.')[1] if website_url and len(parsed_url.netloc.split('.')) > 2 else ''
+    authority_name = get_authority_name(website_url)
 
     meta = {
         "protection_level_uuid": level_uuid,
