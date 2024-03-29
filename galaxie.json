@@ -1,0 +1,12 @@
+{
+    "description": "GDPR Data Transfer Compliance Galaxy",
+    "icon": "GDPR",
+    "name": "country-data-protection",
+    "namespace": "country-data-protection",
+    "type": "country-data-protection Galaxy",
+    "uuid": "2eb8c218-329b-4383-b932-99fa67a6d306",
+    "version": 1,
+    "authors": [
+        "Eliott LALLEMENT, Theo PAGES"
+    ]
+  }

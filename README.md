@@ -1,6 +1,6 @@
 # GDPR Data Transfer Compliance Galaxy
 
-**Author**: fs0ci3ty & Théo PAGES
+**Author**: fs0ci3ty & pages497
 
 **Teachers**: Mr. Alexandre DULAUNOY [@adulau](https://github.com/adulau) & Mr. Christian STUDER [@chrisr3d](https://github.com/chrisr3d)
 
@@ -21,3 +21,42 @@ Additionally, the project offers a YARA rule for the AIL framework to detect Tel
 - The YARA rule is tailored to detect Telegram API keys, enhancing cybersecurity efforts.
 
 For setup, usage, and contribution details, please refer to the subsequent sections.
+
+## How to use
+
+1. Install python3 :
+   On Debian : 
+    ```
+        sudo apt update
+        sudo apt install python3
+    ```
+   Or : 
+   Download from : ```https://www.python.org/downloads/```
+
+
+2. Clone the project :
+   ```
+      git clone https://github.com/fs0ci3ty/MispM2SSIContribution.git
+   ```
+   
+3. Go to the directory : "MispM2SSIContribution" :
+   ```
+      cd MispM2SSIContribution/
+   ```
+   
+4. Install python modules :
+   ```
+      pip install --upgrade requests
+      pip install --upgrade re
+      pip install --upgrade json
+      pip install --upgrade uuid
+      pip install --upgrade tldextract
+   ```
+   
+5. Run pyhtonDataProtection.py :
+   ```
+      python3 .\pyhtonDataProtection.py
+   ```
+   
+6. Check the directory data in order to find the file : "data_protection_cluster.json"`.
+   Be careful each time you launch the program, the file is renewed

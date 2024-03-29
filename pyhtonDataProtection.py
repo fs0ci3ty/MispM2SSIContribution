@@ -22,14 +22,19 @@ def get_authority_name(website_url):
     path_segments = [segment for segment in parsed_url.path.strip('/').split('/') if segment]
 
     # Define lists for generic domain parts and common subdomain prefixes
-    generic_domains = ['gov', 'com', 'org', 'net', 'edu', 'co']
+    generic_domains = ['gov', 'com', 'org', 'net', 'edu', 'co', 'gv', 'justice'] # avant en moins : 'gv', 'justice'
     common_prefixes = ['www']
 
     # Extract the domain and subdomain parts
     domain_parts = parsed_url.netloc.split('.')
-    domain = domain_parts[-2] if len(domain_parts) >= 2 else ''
+    domain = domain_parts[1] if len(domain_parts) >= 2 else '' # avant : domain = domain_parts[-2] if len(domain_parts) >= 2 else ''
 
     subdomain = domain_parts[0] if len(domain_parts) > 2 else ''
+
+    print("domain_parts = ", domain_parts)
+    print("domain = ", domain)
+    print("subdomain = ", subdomain)
+    print("path_segments = ", path_segments)
 
     # Use the first significant path segment if the domain is generic and the subdomain is a common prefix
     if domain in generic_domains and (not subdomain or subdomain in common_prefixes) and path_segments:
@@ -61,8 +66,12 @@ protection_level_uuids = {int(level): str(uuid.uuid4()) for level in protection_
 
 
 clusters = {
-    "authors": ["Eliott LALLEMENT, Théo PAGES"],
+    "authors": ["Eliott LALLEMENT, Theo PAGES"],
     "type": "country-data-protection",
+    "category": "GDPR",
+    "source": "https://www.cnil.fr/sites/cnil/modules/custom/cnil_map_dpa/assets/js/cnil-map-datas.js",
+    "uuid": str(uuid.uuid4()),
+    "version": 1,
     "clusters": []
 }
 # Generate protection level descriptions and clean them from HTML tags
@@ -102,7 +111,6 @@ for feature in countries_data['features']:
         "meta": meta
     }
     clusters["clusters"].append(cluster)
-
 
 
 # Save the clusters and descriptions to a JSON file
