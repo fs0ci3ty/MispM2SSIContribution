@@ -60,4 +60,3 @@ Current challenges include accurately deriving the authority name from the varie
 
 6. Check the directory data to find the file "data_protection_cluster.json".
    Note: Each time you launch the program, the file is renewed.
-```
