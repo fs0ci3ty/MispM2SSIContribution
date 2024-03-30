@@ -14,7 +14,7 @@ The repository hosts a MISP galaxy depicting the landscape of GDPR-compliant dat
 The main goal of the galaxy is to provide a list of country that offers an equivalent level of data privacy to the GDPR regulation of the European Union. 
 
 ## YARA Rule for AIL
-The project also introduces a YARA rule within the AIL framework to identify Telegram API keys, bolstering cybersecurity surveillance efforts. This rule is devised based on a recognized regex pattern detailed [here](https://stackoverflow.com/a/61888374).
+The project also introduces a YARA rule within the AIL framework to identify Telegram API keys, bolstering cybersecurity surveillance efforts. This rule is devised based on a recognized regex pattern detailed [here](https://stackoverflow.com/a/61888374) and is located in the directory "AIL_contribution"
 
 ## Data Source Discovery and Backup Strategy
 The project's data is dynamically sourced from CNIL's interactive global data protection map ('https://www.cnil.fr/en/data-protection-around-the-world'). During a detailed examination of the webpage's sources via browser inspection tools, a JavaScript file ("https://www.cnil.fr/sites/cnil/modules/custom/cnil_map_dpa/assets/js/cnil-map-datas.js") was identified as containing all pertinent information related to the map. Notably, even after omitting the version parameter in the URL, the latest version of the file is still accessible, ensuring the script's continued functionality provided the URL remains unchanged. To safeguard against potential future inaccessibility of this URL, a copy of the JavaScript file has been preserved in the `data` folder within the project's directory.
