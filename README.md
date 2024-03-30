@@ -2,61 +2,62 @@
 
 **Author**: fs0ci3ty & pages497
 
-**Teachers**: Mr. Alexandre DULAUNOY [@adulau](https://github.com/adulau) & Mr. Christian STUDER [@chrisr3d](https://github.com/chrisr3d)
+**Instructors**: Mr. Alexandre DULAUNOY [@adulau](https://github.com/adulau) & Mr. Christian STUDER [@chrisr3d](https://github.com/chrisr3d)
 
 ## Context
-This project focuses on cybersecurity and data protection, specifically international data transfer under GDPR. It aims to provide a MISP galaxy for visual analysis of countries' data transfer capabilities in compliance with GDPR regulations.
+This project is at the intersection of cybersecurity and data protection, focusing on international data transfer compliance with the General Data Protection Regulation (GDPR). It delivers a MISP galaxy for a comprehensive visual analysis of global data transfer practices in alignment with GDPR standards.
 
 ## Galaxy Purpose
-The repository maintains a MISP galaxy that visualizes GDPR-compliant data transfer capabilities. It includes:
-- Data structured into a MISP-compatible galaxy and clusters.
-- Descriptions of data protection levels within each country's cluster.
+The repository hosts a MISP galaxy depicting the landscape of GDPR-compliant data transfer across nations. Key features include:
+- Structured data compatible with MISP galaxies and clusters.
+- Detailed descriptions of various countries' data protection levels, aiming to highlight regions offering GDPR-equivalent data privacy safeguards.
+The main goal of the galaxy is to provide a list of country that offers an equivalent level of data privacy to the GDPR regulation of the European Union. 
 
 ## YARA Rule for AIL
-Additionally, the project offers a YARA rule for the AIL framework to detect Telegram API keys, contributing to cybersecurity monitoring. The regex used is based on a [specific format](https://stackoverflow.com/a/61888374).
+The project also introduces a YARA rule within the AIL framework to identify Telegram API keys, bolstering cybersecurity surveillance efforts. This rule is devised based on a recognized regex pattern detailed [here](https://stackoverflow.com/a/61888374).
+
+## Data Source Discovery and Backup Strategy
+The project's data is dynamically sourced from CNIL's interactive global data protection map ('https://www.cnil.fr/en/data-protection-around-the-world'). During a detailed examination of the webpage's sources via browser inspection tools, a JavaScript file ("https://www.cnil.fr/sites/cnil/modules/custom/cnil_map_dpa/assets/js/cnil-map-datas.js") was identified as containing all pertinent information related to the map. Notably, even after omitting the version parameter in the URL, the latest version of the file is still accessible, ensuring the script's continued functionality provided the URL remains unchanged. To safeguard against potential future inaccessibility of this URL, a copy of the JavaScript file has been preserved in the `data` folder within the project's directory.
 
 ## Methodology
-- Automated scripts fetch and parse data from CNIL, ensuring current information on countries' data protection levels.
-- Data is cleaned and structured for MISP galaxy integration.
-- The YARA rule is tailored to detect Telegram API keys, enhancing cybersecurity efforts.
+- Automated retrieval and parsing of CNIL data ensure up-to-date insights into global data protection statuses.
+- The collated data undergoes meticulous cleaning and structuring for seamless integration into the MISP galaxy framework.
+- The custom YARA rule is engineered for precise detection of Telegram API keys, thus enhancing digital security measures.
 
-For setup, usage, and contribution details, please refer to the subsequent sections.
+## Limitations and Future Directions
+Current challenges include accurately deriving the authority name from the varied and complex URLs of data protection authorities. Future iterations will focus on refining authority name extraction and enriching the dataset with detailed legal and regulatory frameworks pertaining to data protection in each country.
 
-## How to use
+## How to generate the cluster 
 
-1. Install python3 :
-   On Debian : 
-    ```
-        sudo apt update
-        sudo apt install python3
-    ```
-   Or : 
-   Download from : ```https://www.python.org/downloads/```
+1. Install Python 3:
+   - On Debian:
+     ```
+     sudo apt update
+     sudo apt install python3
+     ```
+   - Alternatively, download from [Python's official site](https://www.python.org/downloads/).
 
+2. Clone the project:
 
-2. Clone the project :
    ```
-      git clone https://github.com/fs0ci3ty/MispM2SSIContribution.git
+   git clone https://github.com/fs0ci3ty/MispM2SSIContribution.git
    ```
-   
-3. Go to the directory : "MispM2SSIContribution" :
+
+3. Go to the directory "MispM2SSIContribution":
    ```
-      cd MispM2SSIContribution/
+   cd MispM2SSIContribution/Misp_contribution/
    ```
-   
-4. Install python modules :
+
+4. Install required Python modules:
    ```
-      pip install --upgrade requests
-      pip install --upgrade re
-      pip install --upgrade json
-      pip install --upgrade uuid
-      pip install --upgrade tldextract
+   pip install -r requirements.txt
    ```
-   
-5. Run pyhtonDataProtection.py :
+
+5. Generate the cluster by running `data_protection_cluster_automation.py`:
    ```
-      python3 .\pyhtonDataProtection.py
+   python3 data_protection_cluster_automation.py
    ```
-   
-6. Check the directory data in order to find the file : "data_protection_cluster.json"`.
-   Be careful each time you launch the program, the file is renewed
+
+6. Check the directory data to find the file "data_protection_cluster.json".
+   Note: Each time you launch the program, the file is renewed.
+```

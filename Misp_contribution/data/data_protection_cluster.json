@@ -5,35 +5,35 @@
     "type": "country-data-protection",
     "category": "GDPR",
     "source": "https://www.cnil.fr/sites/cnil/modules/custom/cnil_map_dpa/assets/js/cnil-map-datas.js",
-    "uuid": "a4d14867-62c2-4ccc-b1f7-5346e4692fd2",
+    "uuid": "f752233d-4c9f-4734-96a5-1fe83cf7cd23",
     "version": 1,
     "clusters": [
         {
             "value": "Afghanistan",
-            "uuid": "f8f9dfaa-827d-4125-9ed5-5a7d246e9f54",
+            "uuid": "045ce5d8-9291-42d6-8e47-4cc1bb33189a",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "South Africa",
-            "uuid": "412887d5-f403-4dad-a8a1-0b8094d7cae0",
+            "uuid": "b5f17aa4-df6b-4144-b9ff-0a6edfc71c7f",
             "meta": {
-                "protection_level_uuid": "719afcd1-84c1-48ac-841c-e69d0e59c134",
+                "protection_level_uuid": "a1e210cd-72ea-4915-a7f6-1e3a8d4851a6",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "http://www.justice.gov.za/inforeg/",
                 "address": "The Information Regulator (South Africa)\nJD House, 27 Stiemens Street\nBraamfontein - Johannesburg\n2001, South Africa",
-                "authority_name": "justice"
+                "authority_name": "inforeg"
             }
         },
         {
             "value": "Albania",
-            "uuid": "0b6f705e-d661-4549-8e88-8b395ea302fe",
+            "uuid": "3d345237-0c4c-419f-a697-6e09a4a808e2",
             "meta": {
-                "protection_level_uuid": "719afcd1-84c1-48ac-841c-e69d0e59c134",
+                "protection_level_uuid": "a1e210cd-72ea-4915-a7f6-1e3a8d4851a6",
                 "edpb_membership": "No",
                 "afapdp_membership": "Yes",
                 "regulation_website": "http://www.idp.al/index.php/sq/",
@@ -43,18 +43,18 @@
         },
         {
             "value": "Algeria",
-            "uuid": "84fb5c1b-f0ac-41e2-8eb8-50ff649cf8b5",
+            "uuid": "2b49cbde-185a-44c9-b2ff-edcbb517fb1d",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Germany",
-            "uuid": "f259f84a-0c6a-45f8-9df7-3d25972aff3e",
+            "uuid": "67b5c06d-a1d5-4acf-8402-08043d44a221",
             "meta": {
-                "protection_level_uuid": "b4bfb22f-b603-4001-a009-ee2f3d185cd4",
+                "protection_level_uuid": "c41ec6af-9631-4b84-95f2-754e48ec25f6",
                 "edpb_membership": "Yes",
                 "afapdp_membership": "No",
                 "regulation_website": "https://www.bfdi.bund.de/EN/Service/Anschriften/Laender/Laender-node.html",
@@ -64,9 +64,9 @@
         },
         {
             "value": "Andorra",
-            "uuid": "cda8b708-b7c4-4789-b403-9463e840ab8b",
+            "uuid": "13412604-5e8a-4e4d-8352-104b3e3b01c9",
             "meta": {
-                "protection_level_uuid": "747eee0a-726a-462c-a4ae-74762cfdb235",
+                "protection_level_uuid": "447ec6ef-cb95-458b-bde8-ebb1dd5e64a5",
                 "edpb_membership": "No",
                 "afapdp_membership": "Yes",
                 "regulation_website": "https://www.apda.ad/",
@@ -76,9 +76,9 @@
         },
         {
             "value": "Angola",
-            "uuid": "e6e7395a-face-4092-b9ee-31c63b297d22",
+            "uuid": "a3c7ae5d-8e43-49f4-b055-e5c781f7106f",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "https://www.apd.ao/ao/",
@@ -88,27 +88,27 @@
         },
         {
             "value": "Antigua and Barbuda",
-            "uuid": "fea31ac3-c79b-41c5-bd92-79a96b7f396b",
+            "uuid": "38177542-02ea-4f2c-99ac-7d765f7e7974",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Saudi Arabia",
-            "uuid": "f9f263c2-6773-4858-9203-1e8795145c92",
+            "uuid": "c0dfe03f-53db-46b6-bc26-03559b17ac27",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Argentina",
-            "uuid": "8db38aac-f2f5-4427-a9e6-56af671712af",
+            "uuid": "74ae97a5-66fc-4438-9f2a-1e7e2b767194",
             "meta": {
-                "protection_level_uuid": "747eee0a-726a-462c-a4ae-74762cfdb235",
+                "protection_level_uuid": "447ec6ef-cb95-458b-bde8-ebb1dd5e64a5",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "https://www.argentina.gob.ar/aaip/datospersonales",
@@ -118,9 +118,9 @@
         },
         {
             "value": "Armenia",
-            "uuid": "eeedaf6f-cdd6-424b-ad50-8ed7dae3441e",
+            "uuid": "577d97ce-857a-47c3-94c7-ebb7e92c7f23",
             "meta": {
-                "protection_level_uuid": "719afcd1-84c1-48ac-841c-e69d0e59c134",
+                "protection_level_uuid": "a1e210cd-72ea-4915-a7f6-1e3a8d4851a6",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "http://www.moj.am",
@@ -130,9 +130,9 @@
         },
         {
             "value": "Australia",
-            "uuid": "993499de-beb2-4b72-a876-87f324f7c42f",
+            "uuid": "c41c0c07-28ea-4e0e-b1a5-f876120eac45",
             "meta": {
-                "protection_level_uuid": "719afcd1-84c1-48ac-841c-e69d0e59c134",
+                "protection_level_uuid": "a1e210cd-72ea-4915-a7f6-1e3a8d4851a6",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "https://www.oaic.gov.au/",
@@ -142,9 +142,9 @@
         },
         {
             "value": "Austria",
-            "uuid": "3928e67d-d9ec-47e6-9084-2381696b415d",
+            "uuid": "072ed8f6-35ca-462d-8b2c-e5e22221d65b",
             "meta": {
-                "protection_level_uuid": "b4bfb22f-b603-4001-a009-ee2f3d185cd4",
+                "protection_level_uuid": "c41ec6af-9631-4b84-95f2-754e48ec25f6",
                 "edpb_membership": "Yes",
                 "afapdp_membership": "No",
                 "regulation_website": "https://www.dsb.gv.at/",
@@ -154,9 +154,9 @@
         },
         {
             "value": "Azerbaijan",
-            "uuid": "7a717e31-bc55-4419-b6f6-5dfe6defa0c6",
+            "uuid": "7262abfe-56b1-42b0-9a6e-5ada64f33b26",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "https://mincom.gov.az",
@@ -165,9 +165,9 @@
         },
         {
             "value": "Bahamas",
-            "uuid": "16e14ec8-d4a2-4adb-9a78-ce5b59e38e88",
+            "uuid": "05be9cba-c5aa-4d8f-a5d9-ab2e064fa40e",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "https://www.bahamas.gov.bs/wps/portal/public/!ut/p/b1/vZbLkqJKFEW_xQ-wyEQgYZjK-_0SgYmBIgiioKg8vr6pG3dQ9o1bNemWHBAEG9bZ-5wkIGIiJOJL8izy5F7Ul6T6vI6Z7QJIBsYUa1ikzwEFriCjrWmgk-QkiL4KJBowQFnbOraRTFoUeH3-t9uQJjZEKEc3fVXjXMCrbXO12rmRs9yxoov0mA7M0hye7IXxndFQcV7v_ISvcilLId0HbeL1d8CEg_CAosiI2zQt4vkw0NvIE6Mop_Z9W2otn2mJf2geqvwoUspry3DT8ZuU7dJOEevxXw_gfw78o4fvM5gEP2SoEnGxO390-_MH-IALiCAJEYUQ4mgaMlNE8bcVaOQPgs8u_CP4xmI0CdCXN_gBmIoE2PWgA1gTEj4RAmrrlUOjjKfRLUE3GvxhNIWchPoaGKfRM32h9-6qaZSrDggAmKOrGDdV8fxYaTneTgN3vcQ8TyXQ-R34mooHqL8NlGiLnTJCvo1pEkgWfDdw8dZIJdsCf93hy9BQzp_v4ctOYTkG0oilOJYBFMUiIigjBvGt0vFCsG2iu5y0XGuLzkbAndE4dw0wSylputrY-awdiLEgqfmjPZCpMu_7U_sUmhg7lkFVtxg2WWQlssKrDHYyJ1trgTzwOFYO_Y7P26l0Epspf9xAFiKedCdzSTzeQJM-GVcd08y-VJxPx6ZXh8Xtmrcal9CZ2sLeqxgjuLbxwLMILdz76gLUR6JRmlUrhwMnJ52lFdewxZU2r8PqzGZM1V9u-mhY5XZxXfqCeyOdGWHK9fnw_TbSyf8OGXINA7DQRKYB_UAz_fCzBV2bruB06rGs-X4E_VNlmWU0mJxspOLUAVE85W43m_0AVMh3A-G7gejNQEy9G8i8G_juKXX-_JS-fJkYDrEQkhSAiEQLRBKBvs97fvrH4QXebccjaGLArXZ1tBQdb5V7u1w_hJKWbdlKLvf1eS05RX1Pdquxbc7LR70HHVwnlxiPdeE2izw_0zal6sc5oyhJYVv91mXr0tydjnDoJYNrDrnkgtAKiOa8fmo6rQqZ-XVRyfx1RXg2-wVyrHpU/dl4/d5/L2dBISEvZ0FBIS9nQSEh",
@@ -176,9 +176,9 @@
         },
         {
             "value": "Bahrain",
-            "uuid": "c7e0849c-63c6-4a9f-9069-0cc2efbc7ecc",
+            "uuid": "d90d357c-357c-4c03-8be1-f94c8d6ba01d",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "http://www.pdp.gov.bh/en/index.html",
@@ -188,9 +188,9 @@
         },
         {
             "value": "Bangladesh",
-            "uuid": "a3d55c16-5580-4477-92e0-971a9c35b9a0",
+            "uuid": "3d83e3ec-5932-4099-ab44-4369b023c575",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "https://dsa.gov.bd/",
@@ -199,9 +199,9 @@
         },
         {
             "value": "Barbados",
-            "uuid": "1ab1f6c7-07ac-46bc-a4cf-6635fb876803",
+            "uuid": "e7e01d4a-86ae-46c0-a3b7-34519a1f5a13",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "https://www.gov.bb/Departments/data-protection-commissioner",
@@ -211,9 +211,9 @@
         },
         {
             "value": "Belgium",
-            "uuid": "ec7d8fec-2d78-4ad2-95c2-2c1c5cb8014c",
+            "uuid": "7967c004-d25b-4d4d-815c-6667265a7e8d",
             "meta": {
-                "protection_level_uuid": "b4bfb22f-b603-4001-a009-ee2f3d185cd4",
+                "protection_level_uuid": "c41ec6af-9631-4b84-95f2-754e48ec25f6",
                 "edpb_membership": "Yes",
                 "afapdp_membership": "Yes",
                 "regulation_website": "https://www.autoriteprotectiondonnees.be/",
@@ -223,18 +223,18 @@
         },
         {
             "value": "Belize",
-            "uuid": "b7f48aee-7c49-43b1-b36c-c6b0f48098fb",
+            "uuid": "3792d960-82f3-4307-b26a-698e4fbe8db9",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Benin",
-            "uuid": "0b15b892-bfc4-4f76-b873-0d56cb2bdb1b",
+            "uuid": "19667915-308b-423f-9509-3191c2fa4fc8",
             "meta": {
-                "protection_level_uuid": "719afcd1-84c1-48ac-841c-e69d0e59c134",
+                "protection_level_uuid": "a1e210cd-72ea-4915-a7f6-1e3a8d4851a6",
                 "edpb_membership": "No",
                 "afapdp_membership": "Yes",
                 "regulation_website": "https://apdp.bj/",
@@ -244,9 +244,9 @@
         },
         {
             "value": "Bermuda",
-            "uuid": "273976ef-e644-48eb-8618-9420dfeb0238",
+            "uuid": "ca1a9b3c-1605-409a-b44f-606f300122b1",
             "meta": {
-                "protection_level_uuid": "719afcd1-84c1-48ac-841c-e69d0e59c134",
+                "protection_level_uuid": "a1e210cd-72ea-4915-a7f6-1e3a8d4851a6",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "https://www.privacy.bm",
@@ -256,18 +256,18 @@
         },
         {
             "value": "Bhutan",
-            "uuid": "df38c3d4-cb02-42b0-82e0-a37486f9fa77",
+            "uuid": "24ecc870-4f22-4c75-bd9e-ddf5c994c4b7",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Belarus",
-            "uuid": "a57e50ca-a119-4f97-9a05-41bb6a9e7786",
+            "uuid": "b1bde63c-1778-4079-9d5c-c233c2763aec",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "https://cpd.by",
@@ -277,27 +277,27 @@
         },
         {
             "value": "Burma (Myanmar)",
-            "uuid": "a80b9d00-deb3-4d08-9798-ffc2cc020413",
+            "uuid": "cd17f494-3ce4-4251-8e9d-9b0a5b9490f0",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Bolivia",
-            "uuid": "f1fe2827-42b0-4c4f-9c48-26d169c86bb9",
+            "uuid": "ccd436cf-44c0-43d2-a537-a9988a01888b",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Bosnia and Herzegovina",
-            "uuid": "2153a9f9-e27e-42bd-8166-c2f145a853e0",
+            "uuid": "6f9ab7cb-13c5-4f1e-a0ed-2a0d13755a86",
             "meta": {
-                "protection_level_uuid": "719afcd1-84c1-48ac-841c-e69d0e59c134",
+                "protection_level_uuid": "a1e210cd-72ea-4915-a7f6-1e3a8d4851a6",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "http://www.azlp.gov.ba/",
@@ -307,18 +307,18 @@
         },
         {
             "value": "Botswana",
-            "uuid": "2428055c-8088-47b0-b240-224341f2ec47",
+            "uuid": "9c553406-72a3-4a53-9dbc-ed53466a240a",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Brazil",
-            "uuid": "bba5fcf3-6102-468f-aa1a-5aef16f827cf",
+            "uuid": "2190318c-b269-4de8-b576-c11e76752ec3",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "https://www.gov.br/anpd/pt-br",
@@ -328,18 +328,18 @@
         },
         {
             "value": "Brunei Darussalam",
-            "uuid": "70d21668-c387-4ea2-b7f1-bc0ecde82b16",
+            "uuid": "828cfcbb-53cd-40c0-ab5d-b8acd605313e",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Bulgaria",
-            "uuid": "5717a81e-2a84-44c6-bf48-26b23afaf36e",
+            "uuid": "6d019a5a-15e5-467a-bcba-6e72497665bb",
             "meta": {
-                "protection_level_uuid": "b4bfb22f-b603-4001-a009-ee2f3d185cd4",
+                "protection_level_uuid": "c41ec6af-9631-4b84-95f2-754e48ec25f6",
                 "edpb_membership": "Yes",
                 "afapdp_membership": "No",
                 "regulation_website": "http://www.cpdp.bg/",
@@ -349,9 +349,9 @@
         },
         {
             "value": "Burkina Faso",
-            "uuid": "44522106-3dad-441b-a5c4-00f99d7a26e0",
+            "uuid": "4c68d70a-bc87-4e31-9e34-6ac96567c4cd",
             "meta": {
-                "protection_level_uuid": "719afcd1-84c1-48ac-841c-e69d0e59c134",
+                "protection_level_uuid": "a1e210cd-72ea-4915-a7f6-1e3a8d4851a6",
                 "edpb_membership": "No",
                 "afapdp_membership": "Yes",
                 "regulation_website": "http://www.cil.bf/",
@@ -361,36 +361,36 @@
         },
         {
             "value": "Burundi",
-            "uuid": "8a8a05a0-df9d-4e79-9645-cfd55def2050",
+            "uuid": "df04c618-5090-44be-abf8-bc2848fe107f",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Cambodia",
-            "uuid": "a68b0401-688a-4b79-8b6f-6aa1ce21def3",
+            "uuid": "2780ea79-bbcb-4581-962b-706b3ae7f9c6",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Cameroon",
-            "uuid": "4f1d680e-ec0e-426d-9d55-dcef5a936bd2",
+            "uuid": "c9d6c5af-ca31-4ad4-8a8f-c954e18dc1d9",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Canada",
-            "uuid": "0fd3ac5d-4f63-4aa5-8e58-1dba5b403e5d",
+            "uuid": "6777b8d5-9f4e-443d-9d08-99d4b3d1a0d4",
             "meta": {
-                "protection_level_uuid": "8d4154ae-764b-410f-a1c3-0bd5e2f37821",
+                "protection_level_uuid": "c44ec254-b1b1-43eb-9cd3-a4bfa9bd6e92",
                 "edpb_membership": "No",
                 "afapdp_membership": "Yes",
                 "regulation_website": "https://www.priv.gc.ca/fr/",
@@ -400,9 +400,9 @@
         },
         {
             "value": "Cape Verde",
-            "uuid": "af572a0c-9985-43a1-b3f9-5a3aed04299f",
+            "uuid": "ede20190-1bcd-44d6-b65c-165ca1b1793f",
             "meta": {
-                "protection_level_uuid": "719afcd1-84c1-48ac-841c-e69d0e59c134",
+                "protection_level_uuid": "a1e210cd-72ea-4915-a7f6-1e3a8d4851a6",
                 "edpb_membership": "No",
                 "afapdp_membership": "Yes",
                 "address": "Comiss\u00e3o Nacional de Prote\u00e7\u00e3o de Dados Pessoais - Avenida China, Rampa Terra Branca\nPraia, Santiago, Cabo Verde"
@@ -410,9 +410,9 @@
         },
         {
             "value": "Chile",
-            "uuid": "1315c061-7b0f-4f37-9301-93755ccb4401",
+            "uuid": "5d7f61cb-9a41-4013-bba2-ae9af25e78fc",
             "meta": {
-                "protection_level_uuid": "719afcd1-84c1-48ac-841c-e69d0e59c134",
+                "protection_level_uuid": "a1e210cd-72ea-4915-a7f6-1e3a8d4851a6",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "https://www.consejotransparencia.cl/en/about-us/",
@@ -422,18 +422,18 @@
         },
         {
             "value": "China",
-            "uuid": "fa0f5075-c093-4082-9588-ddb0536efa2b",
+            "uuid": "40116824-5925-4216-819e-ce5dd5b5edae",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Cyprus",
-            "uuid": "0f0e7d5e-36fe-4543-9ede-7c8e0a9a013c",
+            "uuid": "541d54df-0367-4ee3-b0b0-6144f1ebebee",
             "meta": {
-                "protection_level_uuid": "b4bfb22f-b603-4001-a009-ee2f3d185cd4",
+                "protection_level_uuid": "c41ec6af-9631-4b84-95f2-754e48ec25f6",
                 "edpb_membership": "Yes",
                 "afapdp_membership": "No",
                 "regulation_website": "http://www.dataprotection.gov.cy",
@@ -443,9 +443,9 @@
         },
         {
             "value": "Colombia",
-            "uuid": "121a49b0-6846-4916-92c5-472b601bdc81",
+            "uuid": "43672449-9d22-45cb-9864-b376308b7f0c",
             "meta": {
-                "protection_level_uuid": "719afcd1-84c1-48ac-841c-e69d0e59c134",
+                "protection_level_uuid": "a1e210cd-72ea-4915-a7f6-1e3a8d4851a6",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "http://www.sic.gov.co/",
@@ -455,36 +455,36 @@
         },
         {
             "value": "Comoros",
-            "uuid": "5b280159-ef2d-4de1-b219-b6e0206adf42",
+            "uuid": "bdbd13c7-4cf2-4fb1-91be-a305b927b217",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Congo",
-            "uuid": "7c809e17-bca0-400d-abfd-7e3ba705a97d",
+            "uuid": "c42ef28b-78d5-415a-b99a-2b464508b6d5",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "North Korea",
-            "uuid": "0a550f1e-90eb-475f-bd6d-40f75f93f3e7",
+            "uuid": "df789281-c437-40fb-9120-406cd7544217",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "South Korea",
-            "uuid": "073c3752-cc15-4302-9617-bb769ee87775",
+            "uuid": "041651ee-2031-4bd7-a04a-03b49a68c705",
             "meta": {
-                "protection_level_uuid": "747eee0a-726a-462c-a4ae-74762cfdb235",
+                "protection_level_uuid": "447ec6ef-cb95-458b-bde8-ebb1dd5e64a5",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "http://www.pipc.go.kr/cmt/main/english.do",
@@ -494,9 +494,9 @@
         },
         {
             "value": "Costa Rica",
-            "uuid": "a41d7ad7-e43f-451f-be7c-0857ac0f2a28",
+            "uuid": "8db95f7f-f2cf-465d-ad62-83e5bfd85320",
             "meta": {
-                "protection_level_uuid": "719afcd1-84c1-48ac-841c-e69d0e59c134",
+                "protection_level_uuid": "a1e210cd-72ea-4915-a7f6-1e3a8d4851a6",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "http://www.prodhab.go.cr/",
@@ -506,9 +506,9 @@
         },
         {
             "value": "C\u00f4te d'Ivoire",
-            "uuid": "bada49fe-0ec6-408f-a724-135946a57424",
+            "uuid": "02361e64-a581-45a1-8465-b5b64ba655e4",
             "meta": {
-                "protection_level_uuid": "719afcd1-84c1-48ac-841c-e69d0e59c134",
+                "protection_level_uuid": "a1e210cd-72ea-4915-a7f6-1e3a8d4851a6",
                 "edpb_membership": "No",
                 "afapdp_membership": "Yes",
                 "regulation_website": "http://www.artci.ci/",
@@ -518,9 +518,9 @@
         },
         {
             "value": "Croatia",
-            "uuid": "5ebd4c70-bd5a-45fd-9da0-ac843438bf79",
+            "uuid": "7b19d4f3-3abe-4db8-b8b0-cb4ea4fed02c",
             "meta": {
-                "protection_level_uuid": "b4bfb22f-b603-4001-a009-ee2f3d185cd4",
+                "protection_level_uuid": "c41ec6af-9631-4b84-95f2-754e48ec25f6",
                 "edpb_membership": "Yes",
                 "afapdp_membership": "No",
                 "regulation_website": "https://azop.hr/",
@@ -530,18 +530,18 @@
         },
         {
             "value": "Cuba",
-            "uuid": "1763835a-3f92-4763-8bff-0daa5588601b",
+            "uuid": "72b103bd-4c9b-455f-9afb-3aec9dd73c38",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Denmark",
-            "uuid": "b78af697-79b2-4573-8bc9-8a2e1e489886",
+            "uuid": "9166ac01-7f77-4558-b336-d8fbcfb46073",
             "meta": {
-                "protection_level_uuid": "b4bfb22f-b603-4001-a009-ee2f3d185cd4",
+                "protection_level_uuid": "c41ec6af-9631-4b84-95f2-754e48ec25f6",
                 "edpb_membership": "Yes",
                 "afapdp_membership": "No",
                 "regulation_website": "http://www.datatilsynet.dk",
@@ -551,63 +551,63 @@
         },
         {
             "value": "Djibouti",
-            "uuid": "3d2c1cfe-1ebe-41e0-9436-3acd50f16e14",
+            "uuid": "3ce92778-0fe8-446e-bbbe-e68a1358e8f1",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Dominica",
-            "uuid": "7e8b6445-a174-41b7-90ca-e57205258c25",
+            "uuid": "173a28bb-b8e1-4fe8-bb2d-b404d002895a",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Egypt",
-            "uuid": "02b4aa3b-741e-410b-986f-0b7e71f50f00",
+            "uuid": "4db66058-10f7-40eb-acb2-4ec7535e1e94",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "United Arab Emirates",
-            "uuid": "11af510b-6dcc-4021-8585-c05247383670",
+            "uuid": "b91f21b2-82d7-43c3-bdc9-fd542fa1296d",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Ecuador",
-            "uuid": "e5feb055-9e3d-44e5-9dc8-7b6dfd6a46b2",
+            "uuid": "b8266558-553b-47c1-899d-da6b895d7c22",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Eritrea",
-            "uuid": "d6fa9169-880c-4a5c-a820-999e97757cd6",
+            "uuid": "5ea04e3a-c306-4af6-b971-51d97fa3ec5d",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Spain",
-            "uuid": "9322e852-ef5c-4b83-a53e-e19d75c525d9",
+            "uuid": "ad925242-e021-4612-bba0-91addd393149",
             "meta": {
-                "protection_level_uuid": "b4bfb22f-b603-4001-a009-ee2f3d185cd4",
+                "protection_level_uuid": "c41ec6af-9631-4b84-95f2-754e48ec25f6",
                 "edpb_membership": "Yes",
                 "afapdp_membership": "No",
                 "regulation_website": "http://www.agpd.es",
@@ -617,9 +617,9 @@
         },
         {
             "value": "Estonia",
-            "uuid": "a926117f-4777-4508-9d7c-e2de4fe72ba2",
+            "uuid": "95038d67-dde3-4d0f-b33a-594be46c3acc",
             "meta": {
-                "protection_level_uuid": "b4bfb22f-b603-4001-a009-ee2f3d185cd4",
+                "protection_level_uuid": "c41ec6af-9631-4b84-95f2-754e48ec25f6",
                 "edpb_membership": "Yes",
                 "afapdp_membership": "No",
                 "regulation_website": "http://www.aki.ee/et",
@@ -629,9 +629,9 @@
         },
         {
             "value": "United States",
-            "uuid": "47774777-fff2-4342-bcc4-1b650d976063",
+            "uuid": "bb32482a-ab47-4a53-a5e5-2310c0554e1b",
             "meta": {
-                "protection_level_uuid": "8d4154ae-764b-410f-a1c3-0bd5e2f37821",
+                "protection_level_uuid": "c44ec254-b1b1-43eb-9cd3-a4bfa9bd6e92",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "https://www.dataprivacyframework.gov/s/",
@@ -641,27 +641,27 @@
         },
         {
             "value": "Ethiopia",
-            "uuid": "7fd888cc-93aa-47bb-a1f7-396d9901e434",
+            "uuid": "db563928-4727-4f66-bb6a-9d354d807449",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Fiji",
-            "uuid": "173e30d2-e74c-4616-a43e-d55f91c9167b",
+            "uuid": "4a7f44f2-b2ff-4403-88e7-812efd7e3011",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Finland",
-            "uuid": "ea8310d4-e0e2-4c4c-8523-6e841dce1aa1",
+            "uuid": "d8cdc668-b892-4908-8297-34ca258c22eb",
             "meta": {
-                "protection_level_uuid": "b4bfb22f-b603-4001-a009-ee2f3d185cd4",
+                "protection_level_uuid": "c41ec6af-9631-4b84-95f2-754e48ec25f6",
                 "edpb_membership": "Yes",
                 "afapdp_membership": "No",
                 "regulation_website": "http://www.tietosuoja.fi/fi/index.html",
@@ -671,9 +671,9 @@
         },
         {
             "value": "France",
-            "uuid": "97f07a5c-a1ec-453e-b980-6ce5306c9672",
+            "uuid": "7aeb87b0-5e3c-4cca-84c3-a24012a8c475",
             "meta": {
-                "protection_level_uuid": "b4bfb22f-b603-4001-a009-ee2f3d185cd4",
+                "protection_level_uuid": "c41ec6af-9631-4b84-95f2-754e48ec25f6",
                 "edpb_membership": "Yes",
                 "afapdp_membership": "Yes",
                 "regulation_website": "https://www.cnil.fr",
@@ -683,9 +683,9 @@
         },
         {
             "value": "Gabon",
-            "uuid": "76bca8d7-ece2-4a27-8007-5c0151405d14",
+            "uuid": "e8e398ed-4ce9-4386-8d65-0f8740f5a560",
             "meta": {
-                "protection_level_uuid": "719afcd1-84c1-48ac-841c-e69d0e59c134",
+                "protection_level_uuid": "a1e210cd-72ea-4915-a7f6-1e3a8d4851a6",
                 "edpb_membership": "No",
                 "afapdp_membership": "Yes",
                 "regulation_website": "https://www.cnpdcp.ga",
@@ -695,30 +695,30 @@
         },
         {
             "value": "Gambia",
-            "uuid": "ef62efdc-042e-4743-a309-bc2e2b1b9b79",
+            "uuid": "c8628674-52ce-4c3b-9f89-59445db229bf",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Georgia",
-            "uuid": "007c4509-d44f-4ca2-bc48-22e1994035f4",
+            "uuid": "8e811edc-342b-4541-a0c4-d8da045295a2",
             "meta": {
-                "protection_level_uuid": "719afcd1-84c1-48ac-841c-e69d0e59c134",
+                "protection_level_uuid": "a1e210cd-72ea-4915-a7f6-1e3a8d4851a6",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "https://personaldata.ge/en",
                 "address": "Office of the Personal Data Protection inspector of Georgia\n7, Vachnadze Str. 0105, Tbilisi, Georgia",
-                "authority_name": "ge"
+                "authority_name": "en"
             }
         },
         {
             "value": "Ghana",
-            "uuid": "2b910754-cbdb-44b0-bb3a-cdfbc32fcdfc",
+            "uuid": "2d774f9e-948d-457f-aee8-9704901c19d5",
             "meta": {
-                "protection_level_uuid": "719afcd1-84c1-48ac-841c-e69d0e59c134",
+                "protection_level_uuid": "a1e210cd-72ea-4915-a7f6-1e3a8d4851a6",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "https://www.moc.gov.gh/agencies/data-protection-commission-dpc",
@@ -728,9 +728,9 @@
         },
         {
             "value": "Gibraltar",
-            "uuid": "30784a67-cd6d-48bf-b27e-69b001a64537",
+            "uuid": "109fd9f2-3252-45c6-a835-4da8decdae33",
             "meta": {
-                "protection_level_uuid": "719afcd1-84c1-48ac-841c-e69d0e59c134",
+                "protection_level_uuid": "a1e210cd-72ea-4915-a7f6-1e3a8d4851a6",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "http://www.gra.gi/",
@@ -740,9 +740,9 @@
         },
         {
             "value": "Greece",
-            "uuid": "38932655-dcf1-444c-a106-9724affc3f3e",
+            "uuid": "2fad6a03-c8e7-4004-9015-4516d3fe2f96",
             "meta": {
-                "protection_level_uuid": "b4bfb22f-b603-4001-a009-ee2f3d185cd4",
+                "protection_level_uuid": "c41ec6af-9631-4b84-95f2-754e48ec25f6",
                 "edpb_membership": "Yes",
                 "afapdp_membership": "Yes",
                 "regulation_website": "http://www.dpa.gr",
@@ -752,18 +752,18 @@
         },
         {
             "value": "Grenada",
-            "uuid": "9be50322-eb87-4bef-8ca8-5ae824db6f0e",
+            "uuid": "136e63fb-7254-477a-961f-8056df0184ac",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Greenland",
-            "uuid": "0f50f316-7640-4d1d-ae59-1638f29dc6f9",
+            "uuid": "58f1ae0a-5343-4f29-8863-760a4e1e9d21",
             "meta": {
-                "protection_level_uuid": "719afcd1-84c1-48ac-841c-e69d0e59c134",
+                "protection_level_uuid": "a1e210cd-72ea-4915-a7f6-1e3a8d4851a6",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "http://www.datatilsynet.dk",
@@ -773,9 +773,9 @@
         },
         {
             "value": "Guadeloupe",
-            "uuid": "2001b77a-93f6-4389-964a-7034c94a8204",
+            "uuid": "f22fef59-ffb3-489d-9fbf-3b7998886cd1",
             "meta": {
-                "protection_level_uuid": "b4bfb22f-b603-4001-a009-ee2f3d185cd4",
+                "protection_level_uuid": "c41ec6af-9631-4b84-95f2-754e48ec25f6",
                 "edpb_membership": "No",
                 "afapdp_membership": "Yes",
                 "regulation_website": "https://www.cnil.fr",
@@ -785,66 +785,66 @@
         },
         {
             "value": "Guatemala",
-            "uuid": "1ae74608-4bdd-432d-9b3d-de816f9ac533",
+            "uuid": "ef502319-5876-43e8-ac87-b916e6ba13b6",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Guernsey",
-            "uuid": "7dec1a88-6a76-4329-8a1b-c1a86d901797",
+            "uuid": "3c2bd811-ae69-43b6-8702-dd442ee47126",
             "meta": {
-                "protection_level_uuid": "747eee0a-726a-462c-a4ae-74762cfdb235",
+                "protection_level_uuid": "447ec6ef-cb95-458b-bde8-ebb1dd5e64a5",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "https://odpa.gg/about-us",
                 "address": "Data Protection Office\nGuernsey Information Centre\nNorth Esplanade, St Peter Port\nGuernsey,  GY1 2LQ,  Channel Islands",
-                "authority_name": "gg"
+                "authority_name": "about-us"
             }
         },
         {
             "value": "Guinea",
-            "uuid": "1a40b0a6-6481-4f42-a868-ec932ebf25e4",
+            "uuid": "b170c606-580f-48cd-9b40-8d9bd8dbfdd1",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Equatorial Guinea",
-            "uuid": "4ec6bad0-ddb2-4462-ac65-b7dff1a8fe01",
+            "uuid": "ded0da71-6dfb-4310-91ff-ba8840ec7632",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Guinea-Bissau",
-            "uuid": "8a549f88-e698-4556-be95-b4863c63d17f",
+            "uuid": "4ed4a20f-3305-46f4-867b-a73c7feef948",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Guyana",
-            "uuid": "551f96e1-a391-43ab-95af-5712d8123ece",
+            "uuid": "6b479340-bde7-4116-8a83-b674ed89192e",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "French Guiana",
-            "uuid": "a9886425-5efa-4fa4-ac43-bdc605b2993f",
+            "uuid": "6d5abb94-0dfe-4925-aea0-9419d97479b7",
             "meta": {
-                "protection_level_uuid": "b4bfb22f-b603-4001-a009-ee2f3d185cd4",
+                "protection_level_uuid": "c41ec6af-9631-4b84-95f2-754e48ec25f6",
                 "edpb_membership": "No",
                 "afapdp_membership": "Yes",
                 "regulation_website": "https://www.cnil.fr",
@@ -854,27 +854,27 @@
         },
         {
             "value": "Haiti",
-            "uuid": "ac1b08f5-14ca-49dc-987d-ff7c81c3229d",
+            "uuid": "82a55592-a6d1-4459-b36d-452399d50813",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Honduras",
-            "uuid": "675b5812-df6c-41e0-bffd-7fc9dce62a64",
+            "uuid": "6ae7e46c-3852-4a36-ba6d-a0828cc322b9",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Hong Kong",
-            "uuid": "f3ef0369-4a49-4946-8664-92aeb79bab12",
+            "uuid": "ac12b16d-1a59-4949-8dcb-ea049eaeb274",
             "meta": {
-                "protection_level_uuid": "719afcd1-84c1-48ac-841c-e69d0e59c134",
+                "protection_level_uuid": "a1e210cd-72ea-4915-a7f6-1e3a8d4851a6",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "http://www.pcpd.org.hk/",
@@ -884,9 +884,9 @@
         },
         {
             "value": "Hungary",
-            "uuid": "bda3cc96-c4ff-4512-baaf-d4a044696592",
+            "uuid": "ece821e0-5de0-4101-814e-bfd3333fb929",
             "meta": {
-                "protection_level_uuid": "b4bfb22f-b603-4001-a009-ee2f3d185cd4",
+                "protection_level_uuid": "c41ec6af-9631-4b84-95f2-754e48ec25f6",
                 "edpb_membership": "Yes",
                 "afapdp_membership": "No",
                 "regulation_website": "http://www.naih.hu/general-information.html",
@@ -896,9 +896,9 @@
         },
         {
             "value": "Isle Of Man",
-            "uuid": "73c996f8-af4a-4357-9541-0f2e2ddd8bc1",
+            "uuid": "d6999fea-52fa-4aa2-bda9-1ffca55960da",
             "meta": {
-                "protection_level_uuid": "747eee0a-726a-462c-a4ae-74762cfdb235",
+                "protection_level_uuid": "447ec6ef-cb95-458b-bde8-ebb1dd5e64a5",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "https://www.inforights.im/",
@@ -908,18 +908,18 @@
         },
         {
             "value": "Cayman Islands",
-            "uuid": "e243b316-3385-4f7c-9660-8fdfba754b9c",
+            "uuid": "2046d26e-b6d9-427c-91d0-6adfa69379ed",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Faroe Islands",
-            "uuid": "4b9ae9e7-6023-4ef6-afcb-04a8511aeeab",
+            "uuid": "356b03d0-9f8d-429a-a54e-fda4b967f967",
             "meta": {
-                "protection_level_uuid": "747eee0a-726a-462c-a4ae-74762cfdb235",
+                "protection_level_uuid": "447ec6ef-cb95-458b-bde8-ebb1dd5e64a5",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "http://www.dat.fo/",
@@ -929,45 +929,45 @@
         },
         {
             "value": "India",
-            "uuid": "389483c7-e547-4e5c-aa60-590edaca1e1b",
+            "uuid": "cdc1c25d-2953-41e5-8300-8a49fadcacff",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Indonesia",
-            "uuid": "48b1e97a-3512-4924-98fa-afbb480003c3",
+            "uuid": "d0e00c14-296c-4c94-9475-f6f097298a51",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Iran",
-            "uuid": "a1de6a1e-257e-430e-a328-73c1435bd1b7",
+            "uuid": "d8f222dd-c898-41e6-bec7-a9ec438c33d5",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Irak",
-            "uuid": "4c988032-3952-48ec-8d40-0333ff43d076",
+            "uuid": "c191b8e6-976f-4a8e-b5c2-c449e9f8d5e0",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Ireland",
-            "uuid": "ae5cf091-1635-44f0-bd7f-c055ff9f6661",
+            "uuid": "ef8e30b5-d6c7-40ac-bd3e-28f2a821694b",
             "meta": {
-                "protection_level_uuid": "b4bfb22f-b603-4001-a009-ee2f3d185cd4",
+                "protection_level_uuid": "c41ec6af-9631-4b84-95f2-754e48ec25f6",
                 "edpb_membership": "Yes",
                 "afapdp_membership": "No",
                 "regulation_website": "http://www.dataprivacy.ie",
@@ -977,9 +977,9 @@
         },
         {
             "value": "Iceland",
-            "uuid": "69ff7d53-15a2-4832-a5f6-77ecaa8ba2da",
+            "uuid": "282bf69d-9ecc-4fa1-be3a-80e19adcb585",
             "meta": {
-                "protection_level_uuid": "b4bfb22f-b603-4001-a009-ee2f3d185cd4",
+                "protection_level_uuid": "c41ec6af-9631-4b84-95f2-754e48ec25f6",
                 "edpb_membership": "Yes",
                 "afapdp_membership": "No",
                 "regulation_website": "http://www.personuvernd.is",
@@ -989,9 +989,9 @@
         },
         {
             "value": "Israel",
-            "uuid": "1fdd1171-dd6a-495e-9447-ae8c74765ada",
+            "uuid": "bdfa9a0b-ef59-436c-8dc3-d53d42f15d57",
             "meta": {
-                "protection_level_uuid": "747eee0a-726a-462c-a4ae-74762cfdb235",
+                "protection_level_uuid": "447ec6ef-cb95-458b-bde8-ebb1dd5e64a5",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "https://www.gov.il/en/departments/the_privacy_protection_authority/govil-landing-page",
@@ -1001,9 +1001,9 @@
         },
         {
             "value": "Italy",
-            "uuid": "52cbd62c-6865-4b26-b75d-cd3240a3e3ae",
+            "uuid": "55978739-5b9d-4c13-9efe-2ab2e62e1a11",
             "meta": {
-                "protection_level_uuid": "b4bfb22f-b603-4001-a009-ee2f3d185cd4",
+                "protection_level_uuid": "c41ec6af-9631-4b84-95f2-754e48ec25f6",
                 "edpb_membership": "Yes",
                 "afapdp_membership": "No",
                 "regulation_website": "http://www.garanteprivacy.it/",
@@ -1013,18 +1013,18 @@
         },
         {
             "value": "Jamaica",
-            "uuid": "40025628-61e6-456d-9ccf-6ab27ab5529e",
+            "uuid": "d65c0845-4d98-4fd3-8523-88b129ffdecd",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Japan",
-            "uuid": "6b38f4d4-1796-4324-a250-abbc577eeb8e",
+            "uuid": "e0e754c1-a8ba-4f5e-8d39-a44614db6f36",
             "meta": {
-                "protection_level_uuid": "747eee0a-726a-462c-a4ae-74762cfdb235",
+                "protection_level_uuid": "447ec6ef-cb95-458b-bde8-ebb1dd5e64a5",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "http://www.ppc.go.jp/en/",
@@ -1034,9 +1034,9 @@
         },
         {
             "value": "Jersey",
-            "uuid": "f163d9df-c61e-48f4-9db6-af3748b7bc42",
+            "uuid": "a4204fa2-dba2-46f3-b242-ed196e81c6a1",
             "meta": {
-                "protection_level_uuid": "747eee0a-726a-462c-a4ae-74762cfdb235",
+                "protection_level_uuid": "447ec6ef-cb95-458b-bde8-ebb1dd5e64a5",
                 "edpb_membership": "No",
                 "afapdp_membership": "Yes",
                 "regulation_website": "https://jerseyoic.org/",
@@ -1046,27 +1046,27 @@
         },
         {
             "value": "Jordan",
-            "uuid": "3910e895-e10c-4b54-a836-b85120558697",
+            "uuid": "74be6193-1d26-4609-b1d7-19feb1f5fe5d",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Kazakhstan",
-            "uuid": "59b1d8f9-674d-47e3-aa97-d651485d4e63",
+            "uuid": "82cfe8da-2fad-42a2-abe4-ee571fff6ba1",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Kenya",
-            "uuid": "ea85d567-927c-4ecf-91f0-6c6e70e6d1b1",
+            "uuid": "c2b2c152-74ef-44a2-bd0f-183bd492350d",
             "meta": {
-                "protection_level_uuid": "719afcd1-84c1-48ac-841c-e69d0e59c134",
+                "protection_level_uuid": "a1e210cd-72ea-4915-a7f6-1e3a8d4851a6",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "https://www.odpc.go.ke/",
@@ -1076,27 +1076,27 @@
         },
         {
             "value": "Kyrgyzstan",
-            "uuid": "31d70ea3-327a-4719-9e84-129049607ed1",
+            "uuid": "82647561-eacc-4346-9ec2-d2ed78f1a586",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Kiribati",
-            "uuid": "2e68b960-c133-4b66-9607-f607420d14aa",
+            "uuid": "8d45e755-2e54-4a97-8a91-f849604d26dc",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Kosovo",
-            "uuid": "17327fea-d11d-4f48-bf64-367d57096734",
+            "uuid": "b510e029-3a25-4d60-90b7-b26751204be6",
             "meta": {
-                "protection_level_uuid": "719afcd1-84c1-48ac-841c-e69d0e59c134",
+                "protection_level_uuid": "a1e210cd-72ea-4915-a7f6-1e3a8d4851a6",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "address": "Agjencia Shteterore per Mbrojtjen e te Dhenave Peronale\nRruga \"Luan Haradinaj\" nr. 36,\n10 000 Prishtine\nRepublika e Kosoves"
@@ -1104,36 +1104,36 @@
         },
         {
             "value": "Kuwait",
-            "uuid": "f6f2a8b9-1f66-4133-ba9c-b18c15ab9d5f",
+            "uuid": "d1377381-288d-4c57-87ac-fbf1fa47ba48",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Laos",
-            "uuid": "b2a94419-656e-4ab2-953e-acea4c138005",
+            "uuid": "7656ba04-e924-41a5-95e0-69ec11413c4a",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Lesotho",
-            "uuid": "dc871249-a5e6-4162-9d1f-123f0aac3183",
+            "uuid": "e6531fc2-bc14-4218-911a-841281d75e86",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Latvia",
-            "uuid": "667f769a-b6f1-4f2c-9b96-72a41b2da9d1",
+            "uuid": "cb873841-d266-433b-bf91-4d78ce282abd",
             "meta": {
-                "protection_level_uuid": "b4bfb22f-b603-4001-a009-ee2f3d185cd4",
+                "protection_level_uuid": "c41ec6af-9631-4b84-95f2-754e48ec25f6",
                 "edpb_membership": "Yes",
                 "afapdp_membership": "No",
                 "regulation_website": "http://www.dvi.gov.lv",
@@ -1143,36 +1143,36 @@
         },
         {
             "value": "Lebanon",
-            "uuid": "3f57c3c9-f65c-4bf1-9d0e-555dfbdfab91",
+            "uuid": "8f4cf54b-9798-4805-9477-ca13abe7a567",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Liberia",
-            "uuid": "9f98462f-eb4b-441d-a3c5-2c71d4641cb1",
+            "uuid": "139ec0fb-ceac-40e9-a7ce-09c12484e371",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Libya",
-            "uuid": "17895b8b-a657-4931-b5b1-7e6adcfc66e7",
+            "uuid": "c19ad2f7-f606-4901-af52-a186d16d5387",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Liechtenstein",
-            "uuid": "d0126092-40ca-4abe-ad2d-66a688881971",
+            "uuid": "ede1a9cd-aa18-4fb1-95b1-ddbfe339a7bc",
             "meta": {
-                "protection_level_uuid": "b4bfb22f-b603-4001-a009-ee2f3d185cd4",
+                "protection_level_uuid": "c41ec6af-9631-4b84-95f2-754e48ec25f6",
                 "edpb_membership": "Yes",
                 "afapdp_membership": "No",
                 "regulation_website": "http://www.dss.llv.li/",
@@ -1182,9 +1182,9 @@
         },
         {
             "value": "Lithuania",
-            "uuid": "876748f7-fcf8-47bd-b65d-01a5a2d1d32b",
+            "uuid": "9a56a119-56e0-4b4a-9029-e98fc934f25b",
             "meta": {
-                "protection_level_uuid": "b4bfb22f-b603-4001-a009-ee2f3d185cd4",
+                "protection_level_uuid": "c41ec6af-9631-4b84-95f2-754e48ec25f6",
                 "edpb_membership": "Yes",
                 "afapdp_membership": "No",
                 "regulation_website": "http://www.ada.lt",
@@ -1194,9 +1194,9 @@
         },
         {
             "value": "Luxembourg",
-            "uuid": "23da83bb-de35-40a4-a0fe-3c0cb5bc6099",
+            "uuid": "3bccd4f5-b8af-4457-aecc-d6954017f178",
             "meta": {
-                "protection_level_uuid": "b4bfb22f-b603-4001-a009-ee2f3d185cd4",
+                "protection_level_uuid": "c41ec6af-9631-4b84-95f2-754e48ec25f6",
                 "edpb_membership": "Yes",
                 "afapdp_membership": "Yes",
                 "regulation_website": "http://www.cnpd.lu/",
@@ -1206,30 +1206,30 @@
         },
         {
             "value": "Macao",
-            "uuid": "3fddea53-2433-4c2a-adec-95b27a8e6639",
+            "uuid": "e3f442b6-c468-4239-b8c4-858c5484f121",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "North Macedonia",
-            "uuid": "bddbcff5-dc98-41fa-9c02-5ca340329d30",
+            "uuid": "7f6deefe-f932-4af3-9494-121626cb098e",
             "meta": {
-                "protection_level_uuid": "719afcd1-84c1-48ac-841c-e69d0e59c134",
+                "protection_level_uuid": "a1e210cd-72ea-4915-a7f6-1e3a8d4851a6",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "https://dzlp.mk/en",
                 "address": "Direction de la protection des donn\u00e9es personnelles\nGotse Deltchev Blvd 18\nPost Office box 417\n1000 Skopje",
-                "authority_name": "mk"
+                "authority_name": "en"
             }
         },
         {
             "value": "Madagascar",
-            "uuid": "d4491109-ae85-4952-95f4-e82d067d81a4",
+            "uuid": "a3103a68-18d5-486c-9b82-227a8ae0573e",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "address": "Commission malagasy de l'informatique et des libert\u00e9s (CMIL) en cours d'installation"
@@ -1237,9 +1237,9 @@
         },
         {
             "value": "Malaysia",
-            "uuid": "38d00dae-2d18-4d2b-991f-54c2e474885e",
+            "uuid": "f98eb77e-b46b-428d-b40a-89075cee09a1",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "https://www.pdp.gov.my/jpdpv2/contact-us/maklumat-umum/location/?lang=en",
@@ -1249,27 +1249,27 @@
         },
         {
             "value": "Malawi",
-            "uuid": "785e6419-2f1a-4e0b-bf86-8b98528c83ac",
+            "uuid": "add6b5d1-e433-4f8a-a625-07afeb6a9e48",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Maldives",
-            "uuid": "deda9b90-6119-4fbe-b2f7-6d7358e1e801",
+            "uuid": "0282d5e0-b59d-4c76-acae-1a97d2595a70",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Mali",
-            "uuid": "a073165e-e40e-4d83-8a08-9174b00d33a8",
+            "uuid": "f7937406-6201-44a5-b201-4eee14bb5e35",
             "meta": {
-                "protection_level_uuid": "719afcd1-84c1-48ac-841c-e69d0e59c134",
+                "protection_level_uuid": "a1e210cd-72ea-4915-a7f6-1e3a8d4851a6",
                 "edpb_membership": "No",
                 "afapdp_membership": "Yes",
                 "regulation_website": "http://www.apdp.ml",
@@ -1279,9 +1279,9 @@
         },
         {
             "value": "Malta",
-            "uuid": "283cf687-65c7-40d8-8627-6857788a12b1",
+            "uuid": "ab70c42b-d534-4387-a5fe-27252c7cc160",
             "meta": {
-                "protection_level_uuid": "b4bfb22f-b603-4001-a009-ee2f3d185cd4",
+                "protection_level_uuid": "c41ec6af-9631-4b84-95f2-754e48ec25f6",
                 "edpb_membership": "Yes",
                 "afapdp_membership": "No",
                 "regulation_website": "http://www.dataprotection.gov.mt",
@@ -1291,9 +1291,9 @@
         },
         {
             "value": "Morocco",
-            "uuid": "8b9cd0ff-84ea-4648-80a3-5e9fa84d786e",
+            "uuid": "d048d97d-a8d8-4087-9bb8-c76aeb992268",
             "meta": {
-                "protection_level_uuid": "719afcd1-84c1-48ac-841c-e69d0e59c134",
+                "protection_level_uuid": "a1e210cd-72ea-4915-a7f6-1e3a8d4851a6",
                 "edpb_membership": "No",
                 "afapdp_membership": "Yes",
                 "regulation_website": "http://www.cndp.ma/",
@@ -1303,18 +1303,18 @@
         },
         {
             "value": "Marshall Islands",
-            "uuid": "d8300f52-9f52-472c-9fd4-af874a58a173",
+            "uuid": "f9fe9e7f-3c5a-4e43-8cda-ed776cdd7184",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Martinique",
-            "uuid": "17bb9b8d-db88-4951-81fc-1ce17ea6e278",
+            "uuid": "82832a98-a340-4f9e-a3fc-b5f6e256018e",
             "meta": {
-                "protection_level_uuid": "b4bfb22f-b603-4001-a009-ee2f3d185cd4",
+                "protection_level_uuid": "c41ec6af-9631-4b84-95f2-754e48ec25f6",
                 "edpb_membership": "No",
                 "afapdp_membership": "Yes",
                 "regulation_website": "https://www.cnil.fr",
@@ -1324,9 +1324,9 @@
         },
         {
             "value": "Mauritius",
-            "uuid": "1866ab1e-6c75-4829-8a01-07495685ea20",
+            "uuid": "f3878a36-3c7f-46fb-9a02-47f593afe448",
             "meta": {
-                "protection_level_uuid": "719afcd1-84c1-48ac-841c-e69d0e59c134",
+                "protection_level_uuid": "a1e210cd-72ea-4915-a7f6-1e3a8d4851a6",
                 "edpb_membership": "No",
                 "afapdp_membership": "Yes",
                 "regulation_website": "https://dataprotection.govmu.org/Pages/About%20Us/About-the-Office.aspx",
@@ -1336,18 +1336,18 @@
         },
         {
             "value": "Mauritania",
-            "uuid": "f42a289a-1adc-4ab4-babb-4038d3ecbaaa",
+            "uuid": "70d571bb-03c8-46a2-aa09-87c4abff8006",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Mayotte",
-            "uuid": "1f83223a-2d54-428a-965d-df6f03d6141d",
+            "uuid": "df54552c-12cc-412f-98d3-bf8c079d4ed1",
             "meta": {
-                "protection_level_uuid": "b4bfb22f-b603-4001-a009-ee2f3d185cd4",
+                "protection_level_uuid": "c41ec6af-9631-4b84-95f2-754e48ec25f6",
                 "edpb_membership": "No",
                 "afapdp_membership": "Yes",
                 "regulation_website": "https://www.cnil.fr",
@@ -1357,9 +1357,9 @@
         },
         {
             "value": "Mexico",
-            "uuid": "9841f253-e455-41ff-9bb9-e15177f96055",
+            "uuid": "e678421e-c5dd-4543-b864-534398178171",
             "meta": {
-                "protection_level_uuid": "719afcd1-84c1-48ac-841c-e69d0e59c134",
+                "protection_level_uuid": "a1e210cd-72ea-4915-a7f6-1e3a8d4851a6",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "https://home.inai.org.mx/",
@@ -1369,18 +1369,18 @@
         },
         {
             "value": "Micronesia",
-            "uuid": "2c5393fc-0a53-4a0e-8248-ef665ac76ab1",
+            "uuid": "925e3477-b230-44d7-97f2-64f4d9b8784b",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Moldova",
-            "uuid": "8063abac-0f54-4c76-88f6-cfbf35a390c6",
+            "uuid": "8feed644-edb1-46c8-8508-698a33c76786",
             "meta": {
-                "protection_level_uuid": "719afcd1-84c1-48ac-841c-e69d0e59c134",
+                "protection_level_uuid": "a1e210cd-72ea-4915-a7f6-1e3a8d4851a6",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "http://www.datepersonale.md/en/start/",
@@ -1390,9 +1390,9 @@
         },
         {
             "value": "Monaco",
-            "uuid": "80635313-24fb-4be2-b8d2-48a6d6f423f8",
+            "uuid": "0e628fee-db4a-454b-9f15-da6a6af246df",
             "meta": {
-                "protection_level_uuid": "719afcd1-84c1-48ac-841c-e69d0e59c134",
+                "protection_level_uuid": "a1e210cd-72ea-4915-a7f6-1e3a8d4851a6",
                 "edpb_membership": "No",
                 "afapdp_membership": "Yes",
                 "regulation_website": "http://www.ccin.mc",
@@ -1402,18 +1402,18 @@
         },
         {
             "value": "Mongolia",
-            "uuid": "0da08449-832e-49a2-8c8b-4c4799134dfc",
+            "uuid": "237b4842-7381-4e49-b688-0547e25d66da",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Montenegro",
-            "uuid": "f1b5bb21-0bec-443b-8104-beba4ce25c23",
+            "uuid": "7db73d65-e618-450e-8ddd-fcbef5bf38eb",
             "meta": {
-                "protection_level_uuid": "719afcd1-84c1-48ac-841c-e69d0e59c134",
+                "protection_level_uuid": "a1e210cd-72ea-4915-a7f6-1e3a8d4851a6",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "http://www.azlp.me/me/agencija",
@@ -1423,54 +1423,54 @@
         },
         {
             "value": "Mozambique",
-            "uuid": "4d219d5f-1505-401d-98b1-8c1cf38c49fa",
+            "uuid": "86f19de1-69d5-44aa-b566-af16f024736e",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Namibia",
-            "uuid": "1848da98-5ac0-433d-8bf8-79e9807407bb",
+            "uuid": "23c2e126-788d-424f-994a-e82a449f6f3b",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Nauru",
-            "uuid": "33ac4286-3b35-49d9-874f-5405baa8fdbb",
+            "uuid": "a321d4c8-69be-4e0c-aef2-f8c0f077b5cc",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Nepal",
-            "uuid": "c6c22b9c-28bb-4815-be6e-2ea6735467ec",
+            "uuid": "cc97635d-7fe1-4b9c-a3fc-888e8e07c24b",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Nicaragua",
-            "uuid": "a8b521f2-4595-4401-a6c9-a4c5659540ad",
+            "uuid": "5e155c3d-bebf-4c31-9f9f-2bb6dc25ebfd",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Niger",
-            "uuid": "a01dbd39-3951-4af0-9f50-b3b145d35f1e",
+            "uuid": "7dd48354-d070-4372-bb0c-3dc73d8a2635",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "Yes",
                 "regulation_website": "https://www.hapdp.ne",
@@ -1480,18 +1480,18 @@
         },
         {
             "value": "Nigeria",
-            "uuid": "3ae6aa4f-17e7-4ad3-ad69-d6768cc26f81",
+            "uuid": "d4295ed1-50be-459c-b846-2cae14e5352d",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Norway",
-            "uuid": "1c7c20ec-5d07-4295-a256-1e0df7fcf94f",
+            "uuid": "40f18633-ae68-4535-9004-114bc0635aca",
             "meta": {
-                "protection_level_uuid": "b4bfb22f-b603-4001-a009-ee2f3d185cd4",
+                "protection_level_uuid": "c41ec6af-9631-4b84-95f2-754e48ec25f6",
                 "edpb_membership": "Yes",
                 "afapdp_membership": "No",
                 "regulation_website": "http://www.datatilsynet.no",
@@ -1501,9 +1501,9 @@
         },
         {
             "value": "New Caledonia",
-            "uuid": "3861e0dc-2f3f-4d0c-82da-b3889bb8e250",
+            "uuid": "a4f5150a-9ecb-4836-b72c-b4772036b5d3",
             "meta": {
-                "protection_level_uuid": "b4bfb22f-b603-4001-a009-ee2f3d185cd4",
+                "protection_level_uuid": "c41ec6af-9631-4b84-95f2-754e48ec25f6",
                 "edpb_membership": "No",
                 "afapdp_membership": "Yes",
                 "regulation_website": "https://www.cnil.fr",
@@ -1513,9 +1513,9 @@
         },
         {
             "value": "New Zealand",
-            "uuid": "55d658cd-b550-4f27-a2aa-69475999f4e1",
+            "uuid": "05cc1b8c-cc98-49e3-b2c0-f7a2d76ffd11",
             "meta": {
-                "protection_level_uuid": "747eee0a-726a-462c-a4ae-74762cfdb235",
+                "protection_level_uuid": "447ec6ef-cb95-458b-bde8-ebb1dd5e64a5",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "http://www.privacy.org.nz",
@@ -1525,18 +1525,18 @@
         },
         {
             "value": "Oman",
-            "uuid": "8492c2e3-991c-48b6-870e-601dc39602e0",
+            "uuid": "5765de16-a812-48bf-8992-693a1d317e3d",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Uganda",
-            "uuid": "19ec59c7-cdc6-4503-b81a-3078947a2b7c",
+            "uuid": "0eb19a38-7965-4af6-bf11-cb825be583b4",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "https://www.pdpo.go.ug/home",
@@ -1546,45 +1546,45 @@
         },
         {
             "value": "Uzbekistan",
-            "uuid": "fe3c56da-c07b-4cfe-9bad-40017fe31365",
+            "uuid": "78a83a1c-5f68-40b0-a33f-c87e03430974",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Pakistan",
-            "uuid": "642c388c-2cfd-47c5-acaf-7f951902e0f2",
+            "uuid": "420f556c-118b-4528-ae79-15081d7ee92e",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Palau",
-            "uuid": "a6439447-0ff5-4b58-b5fe-eff4947fb85f",
+            "uuid": "5b448667-8120-4aca-992d-330a5793e4f0",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Palestine",
-            "uuid": "160273b3-ffc4-4645-8953-2adb22173924",
+            "uuid": "7b7ed98f-3fe9-470f-bcfe-4e96ea749a72",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Panama",
-            "uuid": "b6276011-8286-4c86-9e83-d19f4a0f1e58",
+            "uuid": "1be13381-9cca-4a95-98c8-aa19f6e91bf9",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "https://www.antai.gob.pa/",
@@ -1594,27 +1594,27 @@
         },
         {
             "value": "Papua New Guinea",
-            "uuid": "bf17e17b-6bce-4e8e-aa6a-b8c1b245f413",
+            "uuid": "2d43d17e-3551-428b-9cc7-2f4fc13a9fef",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Paraguay",
-            "uuid": "7fdd3633-f38b-47dd-9c5b-439785a503d1",
+            "uuid": "8b4f22a2-f128-4fe4-a11a-ba4f135288ab",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Netherlands",
-            "uuid": "9afe570c-335b-41be-80e0-9ec425d9899e",
+            "uuid": "4f463dea-2c5d-4967-98b3-39aa3e99fa66",
             "meta": {
-                "protection_level_uuid": "b4bfb22f-b603-4001-a009-ee2f3d185cd4",
+                "protection_level_uuid": "c41ec6af-9631-4b84-95f2-754e48ec25f6",
                 "edpb_membership": "Yes",
                 "afapdp_membership": "No",
                 "regulation_website": "https://www.autoriteitpersoonsgegevens.nl/",
@@ -1624,9 +1624,9 @@
         },
         {
             "value": "Peru",
-            "uuid": "00445834-2421-44bc-be95-b183f2ac5441",
+            "uuid": "c4bdecf5-bda0-4aea-959a-e67dac85521d",
             "meta": {
-                "protection_level_uuid": "719afcd1-84c1-48ac-841c-e69d0e59c134",
+                "protection_level_uuid": "a1e210cd-72ea-4915-a7f6-1e3a8d4851a6",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "https://www.gob.pe/minjus",
@@ -1636,9 +1636,9 @@
         },
         {
             "value": "Philippines",
-            "uuid": "5f961254-bb09-452f-82e7-999535cd4338",
+            "uuid": "fc124754-dc64-41d9-bd23-df5a7ec26218",
             "meta": {
-                "protection_level_uuid": "719afcd1-84c1-48ac-841c-e69d0e59c134",
+                "protection_level_uuid": "a1e210cd-72ea-4915-a7f6-1e3a8d4851a6",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "https://privacy.gov.ph/",
@@ -1648,9 +1648,9 @@
         },
         {
             "value": "Poland",
-            "uuid": "9b994a3c-bc66-4095-abd5-c2c0361120c3",
+            "uuid": "f91d09c6-c6c7-44c7-8b87-98f097b11ede",
             "meta": {
-                "protection_level_uuid": "b4bfb22f-b603-4001-a009-ee2f3d185cd4",
+                "protection_level_uuid": "c41ec6af-9631-4b84-95f2-754e48ec25f6",
                 "edpb_membership": "Yes",
                 "afapdp_membership": "No",
                 "regulation_website": "https://uodo.gov.pl/",
@@ -1660,9 +1660,9 @@
         },
         {
             "value": "French Polynesia",
-            "uuid": "524e8917-b01c-4c00-b35d-1c3c731273d5",
+            "uuid": "28b78d48-531f-4d52-a3db-9799c683968d",
             "meta": {
-                "protection_level_uuid": "b4bfb22f-b603-4001-a009-ee2f3d185cd4",
+                "protection_level_uuid": "c41ec6af-9631-4b84-95f2-754e48ec25f6",
                 "edpb_membership": "No",
                 "afapdp_membership": "Yes",
                 "regulation_website": "https://www.cnil.fr",
@@ -1672,9 +1672,9 @@
         },
         {
             "value": "Puerto Rico",
-            "uuid": "152eb840-55fb-4acb-ab64-8419959983b2",
+            "uuid": "46153a6d-f3ae-44e1-99b8-78d463267ef7",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "http://www.export.gov/safeharbor",
@@ -1684,9 +1684,9 @@
         },
         {
             "value": "Portugal",
-            "uuid": "932baa95-fa94-4e89-adff-a987746f62da",
+            "uuid": "34be6503-a973-48c7-a757-b83f05726bb6",
             "meta": {
-                "protection_level_uuid": "b4bfb22f-b603-4001-a009-ee2f3d185cd4",
+                "protection_level_uuid": "c41ec6af-9631-4b84-95f2-754e48ec25f6",
                 "edpb_membership": "Yes",
                 "afapdp_membership": "No",
                 "regulation_website": "https://www.cnpd.pt/",
@@ -1696,45 +1696,45 @@
         },
         {
             "value": "Qatar",
-            "uuid": "a10180d3-f1a3-4fb0-b4b6-7f750741c822",
+            "uuid": "a873b54f-23e5-4ef0-bfac-c1526b5e0e39",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Congo, The Democratic Republic Of The",
-            "uuid": "cf37b27e-2a79-472e-8e75-e85193599699",
+            "uuid": "615d4a1b-3ca3-4317-9b87-de32c73066c8",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Central African Republic",
-            "uuid": "0b0dfc73-ffb4-49ab-8377-fbf120a2a405",
+            "uuid": "c25bb920-8bd9-4aba-a082-ec36afb424d1",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Dominican Republic",
-            "uuid": "6b725c81-ca42-4a5f-9b96-681e434a3ba7",
+            "uuid": "f99b3cc6-5ac8-477b-b006-39f093f4f3a7",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Czech Republic",
-            "uuid": "dafb653a-7407-4712-8a64-a2a8fb68c26c",
+            "uuid": "1ec2de68-5605-4e46-a8c3-3d8becac21a8",
             "meta": {
-                "protection_level_uuid": "b4bfb22f-b603-4001-a009-ee2f3d185cd4",
+                "protection_level_uuid": "c41ec6af-9631-4b84-95f2-754e48ec25f6",
                 "edpb_membership": "Yes",
                 "afapdp_membership": "No",
                 "regulation_website": "http://www.uoou.cz",
@@ -1744,9 +1744,9 @@
         },
         {
             "value": "R\u00e9union",
-            "uuid": "3c9a9b94-dff5-4ee2-be3a-ccaa5453adef",
+            "uuid": "9b1ccf31-b9fc-4477-8562-baee61518666",
             "meta": {
-                "protection_level_uuid": "b4bfb22f-b603-4001-a009-ee2f3d185cd4",
+                "protection_level_uuid": "c41ec6af-9631-4b84-95f2-754e48ec25f6",
                 "edpb_membership": "No",
                 "afapdp_membership": "Yes",
                 "regulation_website": "https://www.cnil.fr",
@@ -1756,9 +1756,9 @@
         },
         {
             "value": "Romania",
-            "uuid": "8add6b0f-7207-4c69-8a0c-be0feaa563eb",
+            "uuid": "13d6646c-6828-41c6-ba96-b497c1e0f902",
             "meta": {
-                "protection_level_uuid": "b4bfb22f-b603-4001-a009-ee2f3d185cd4",
+                "protection_level_uuid": "c41ec6af-9631-4b84-95f2-754e48ec25f6",
                 "edpb_membership": "Yes",
                 "afapdp_membership": "No",
                 "regulation_website": "http://www.dataprotection.ro",
@@ -1768,9 +1768,9 @@
         },
         {
             "value": "United Kingdom",
-            "uuid": "db8bd75f-15c7-4db5-bd37-17755164572c",
+            "uuid": "2cc1343a-78b7-43eb-bbc2-19a355f026cf",
             "meta": {
-                "protection_level_uuid": "747eee0a-726a-462c-a4ae-74762cfdb235",
+                "protection_level_uuid": "447ec6ef-cb95-458b-bde8-ebb1dd5e64a5",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "https://ico.org.uk/",
@@ -1780,9 +1780,9 @@
         },
         {
             "value": "Russian Federation",
-            "uuid": "6337f91e-1152-42e5-ad77-7a0378d728eb",
+            "uuid": "21109443-5b63-4843-896b-82d9b9aa3f03",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "http://rkn.gov.ru/eng/",
@@ -1792,9 +1792,9 @@
         },
         {
             "value": "Rwanda",
-            "uuid": "8e801cf2-07e3-4572-bf2b-f616d0ac5094",
+            "uuid": "240716e1-8f1b-46ce-b19f-15981aa11583",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "https://cyber.gov.rw/about/",
@@ -1804,36 +1804,36 @@
         },
         {
             "value": "Western Sahara",
-            "uuid": "123706c8-c9be-44db-95cd-6b09bcf28ff0",
+            "uuid": "aab59ead-049c-436f-9f7b-58a60fd45fb4",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Saint Kitts And Nevis",
-            "uuid": "28105450-6edb-46b3-abc1-9d8de5ca7ee8",
+            "uuid": "9aacf842-75fd-45b0-a0e1-64f3a0dcc6fd",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Saint Lucia",
-            "uuid": "b8180141-5f6e-4a3a-bd50-4c06f423c012",
+            "uuid": "7c630b2c-6119-44dc-9c81-7c9786b964cd",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "San Marino",
-            "uuid": "e8d0ffc6-f776-43c1-aa55-74366c52e335",
+            "uuid": "1a719094-e060-4e8c-8b71-16d8dc7bae9e",
             "meta": {
-                "protection_level_uuid": "719afcd1-84c1-48ac-841c-e69d0e59c134",
+                "protection_level_uuid": "a1e210cd-72ea-4915-a7f6-1e3a8d4851a6",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "https://www.garanteprivacy.sm/pub1/garante/en/",
@@ -1843,45 +1843,45 @@
         },
         {
             "value": "Saint Vincent and The Grenadines",
-            "uuid": "37ae0aa0-c491-4c2c-9c05-e60c1fdfb284",
+            "uuid": "5e83352a-0574-4ce9-8781-c18b2531fb56",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Solomon Islands",
-            "uuid": "314c77e3-4d55-4a59-a882-c760298c1a8b",
+            "uuid": "40cbf959-d46a-4a98-8be9-a95fa3e2b6a7",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Salvador",
-            "uuid": "1d38a357-a716-4a5a-a61b-f88b5de0061a",
+            "uuid": "8493ea36-c625-4864-865a-b9ae7ad22a9c",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Samoa",
-            "uuid": "2a78ebf8-12a5-4806-a2ec-dc6a33790c1e",
+            "uuid": "256e9493-c466-4b13-bd5c-d2efe98ffaa9",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Sao Tome and Principe",
-            "uuid": "d5484fd0-8b7a-484f-936d-a51262e504ea",
+            "uuid": "e1da1233-6a3d-4586-adc1-87708dec2879",
             "meta": {
-                "protection_level_uuid": "719afcd1-84c1-48ac-841c-e69d0e59c134",
+                "protection_level_uuid": "a1e210cd-72ea-4915-a7f6-1e3a8d4851a6",
                 "edpb_membership": "No",
                 "afapdp_membership": "Yes",
                 "regulation_website": "https://www.anpdp.st/",
@@ -1891,9 +1891,9 @@
         },
         {
             "value": "Senegal",
-            "uuid": "13418b54-d89e-4f9c-9af7-c01ae613f08c",
+            "uuid": "b137881f-e0c5-4de0-b5cb-494fa038b7af",
             "meta": {
-                "protection_level_uuid": "719afcd1-84c1-48ac-841c-e69d0e59c134",
+                "protection_level_uuid": "a1e210cd-72ea-4915-a7f6-1e3a8d4851a6",
                 "edpb_membership": "No",
                 "afapdp_membership": "Yes",
                 "regulation_website": "http://www.cdp.sn/",
@@ -1903,9 +1903,9 @@
         },
         {
             "value": "Serbia",
-            "uuid": "4560b0cb-d6b2-4fcf-bb9e-2c26922dfb36",
+            "uuid": "aa2bee7f-a44b-4cc9-9761-d65bfbfff233",
             "meta": {
-                "protection_level_uuid": "719afcd1-84c1-48ac-841c-e69d0e59c134",
+                "protection_level_uuid": "a1e210cd-72ea-4915-a7f6-1e3a8d4851a6",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "https://www.poverenik.rs/en",
@@ -1915,27 +1915,27 @@
         },
         {
             "value": "Seychelles",
-            "uuid": "9a650d89-a0ae-438a-a9f6-ceb9a65d9765",
+            "uuid": "4f469d4a-ef46-4cd9-b001-a19af4cdd7b8",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Sierra Leone",
-            "uuid": "528220b0-d197-4387-991f-78c458870251",
+            "uuid": "6f873fa7-e35e-4ee1-ae9f-c9db4dfc5561",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Singapore",
-            "uuid": "ef87c2c6-48b1-4e90-a0c6-975d0745f284",
+            "uuid": "747de60c-371f-4082-884b-bb709ffbdecc",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "https://www.pdpc.gov.sg/",
@@ -1945,9 +1945,9 @@
         },
         {
             "value": "Slovakia",
-            "uuid": "23b67414-552c-4a27-afba-d02add353c12",
+            "uuid": "b28d6604-966b-4ff8-8410-6b4d70e3b455",
             "meta": {
-                "protection_level_uuid": "b4bfb22f-b603-4001-a009-ee2f3d185cd4",
+                "protection_level_uuid": "c41ec6af-9631-4b84-95f2-754e48ec25f6",
                 "edpb_membership": "Yes",
                 "afapdp_membership": "No",
                 "regulation_website": "http://www.dataprotection.gov.sk",
@@ -1957,9 +1957,9 @@
         },
         {
             "value": "Slovenia",
-            "uuid": "1e1d6255-9853-4495-9979-3bd2efd740a1",
+            "uuid": "66075c05-7dee-42ae-b82a-fec27af96b13",
             "meta": {
-                "protection_level_uuid": "b4bfb22f-b603-4001-a009-ee2f3d185cd4",
+                "protection_level_uuid": "c41ec6af-9631-4b84-95f2-754e48ec25f6",
                 "edpb_membership": "Yes",
                 "afapdp_membership": "No",
                 "regulation_website": "https://www.ip-rs.si/",
@@ -1969,54 +1969,54 @@
         },
         {
             "value": "Somalia",
-            "uuid": "0439e641-7445-4cc3-814c-77042b0ec1f9",
+            "uuid": "28a547e1-be3f-4662-a4c9-7f1d436c5285",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Somaliland",
-            "uuid": "bebd990e-5a69-4cf3-b36d-f69ea17ed74f",
+            "uuid": "1732f217-09ef-4213-820b-b8d8586f51bc",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Sudan",
-            "uuid": "9dfe55f0-b20b-403d-a39f-12b6b978de49",
+            "uuid": "8a93e142-847c-464d-ade4-cb603931abfe",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "South Sudan",
-            "uuid": "d6e3f010-9b86-46d0-a6d1-96e382212692",
+            "uuid": "1163b381-46fc-4ad3-b5cb-23e60c4bc79d",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Sri Lanka",
-            "uuid": "ab346620-4346-4a4b-a4c0-cae83f29394f",
+            "uuid": "844664b3-cac2-4a9c-b219-a102679179ae",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Sweden",
-            "uuid": "9d067a90-0734-45e5-af5c-605cfd51771f",
+            "uuid": "7b75873f-87d0-4d3c-b759-2a8fad27ad9a",
             "meta": {
-                "protection_level_uuid": "b4bfb22f-b603-4001-a009-ee2f3d185cd4",
+                "protection_level_uuid": "c41ec6af-9631-4b84-95f2-754e48ec25f6",
                 "edpb_membership": "Yes",
                 "afapdp_membership": "No",
                 "regulation_website": "https://www.imy.se/en",
@@ -2026,9 +2026,9 @@
         },
         {
             "value": "Switzerland",
-            "uuid": "7239b694-bc4b-4b28-a1fa-429080b4ffd0",
+            "uuid": "3e011bfa-a1d1-4632-a273-51d70ffec623",
             "meta": {
-                "protection_level_uuid": "747eee0a-726a-462c-a4ae-74762cfdb235",
+                "protection_level_uuid": "447ec6ef-cb95-458b-bde8-ebb1dd5e64a5",
                 "edpb_membership": "No",
                 "afapdp_membership": "Yes",
                 "regulation_website": "http://www.leprepose.ch",
@@ -2038,45 +2038,45 @@
         },
         {
             "value": "Suriname",
-            "uuid": "28aa76a3-b9a5-4cfd-8f75-22c3d75db81b",
+            "uuid": "2eb54223-12bd-42c6-b9ca-caaee872d60a",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Eswatini",
-            "uuid": "5a31e01e-3e54-4876-b78e-01cdb291eab3",
+            "uuid": "1074234e-6983-436b-b380-a35acd6d7df2",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Syria",
-            "uuid": "fcf3d227-b5d7-4217-b60b-3f46dc8de527",
+            "uuid": "38075705-f146-4313-8b74-60b27b8885ac",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Tajikistan",
-            "uuid": "62901135-2117-4284-8f53-09b4ee213530",
+            "uuid": "d8bc1d57-132c-4c74-b13e-b5d61bad6f88",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Taiwan",
-            "uuid": "f52f3ac8-e33a-4172-882b-c1d050db127c",
+            "uuid": "a3fdf603-5d8d-45a3-8c44-b362ac452559",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "address": "The Ministry of Justice\n130 Sec 1 Chung Ching  South ad\nTAIWAN - TAIPEI 100 ROC 100"
@@ -2084,18 +2084,18 @@
         },
         {
             "value": "Tanzania",
-            "uuid": "c9920a67-1b37-4069-9a4b-dbd1fb504ad5",
+            "uuid": "0386a7a5-e563-43ef-80b5-4b1592c6cd9d",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Chad",
-            "uuid": "c09e1934-6943-4e86-8e8f-a39aaa825516",
+            "uuid": "942254ef-026a-4c6f-896d-92d247f41dbc",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "https://ansice.td/",
@@ -2105,9 +2105,9 @@
         },
         {
             "value": "French Southern Territories",
-            "uuid": "3c0638c4-cb9a-457d-b89b-c8dddca722e5",
+            "uuid": "78b9ee5a-de5e-4dd9-a4ce-1036f1e72caa",
             "meta": {
-                "protection_level_uuid": "b4bfb22f-b603-4001-a009-ee2f3d185cd4",
+                "protection_level_uuid": "c41ec6af-9631-4b84-95f2-754e48ec25f6",
                 "edpb_membership": "No",
                 "afapdp_membership": "Yes",
                 "regulation_website": "https://www.cnil.fr",
@@ -2117,9 +2117,9 @@
         },
         {
             "value": "Thailand",
-            "uuid": "84c529c3-c289-467d-aef4-cf6bce029bdd",
+            "uuid": "d9a58f72-809d-4dea-8a1e-19d01e59b9db",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "address": "Authority for the protection of Personal Data Information Commission\nGovernment House\nBangkok 10300\nTHAILAND"
@@ -2127,45 +2127,45 @@
         },
         {
             "value": "Timor-Leste",
-            "uuid": "ca57cbec-e389-43d0-996a-34e68f9402b7",
+            "uuid": "e118fdfd-77d7-4c3b-8b40-14f623c66f5d",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Togo",
-            "uuid": "af7b3303-0d50-421d-a912-0ffa224da832",
+            "uuid": "0d4526f1-22fd-4d29-856f-9c24849fcc4b",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Tonga",
-            "uuid": "0743108b-a272-40d3-99f9-4216c99e3a1b",
+            "uuid": "79d9e479-2df0-4b4a-8ac7-2493d6ef3164",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Trinidad and Tobago",
-            "uuid": "62ef61dd-2b7a-4ae3-9650-bc24c509098d",
+            "uuid": "c32c9b46-4070-4d64-b1b7-7cc9cab87b9f",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Tunisia",
-            "uuid": "40049633-a4df-4351-880c-e3c8b13b49f0",
+            "uuid": "97a8f172-8045-406b-aaec-3fbcfc08f145",
             "meta": {
-                "protection_level_uuid": "719afcd1-84c1-48ac-841c-e69d0e59c134",
+                "protection_level_uuid": "a1e210cd-72ea-4915-a7f6-1e3a8d4851a6",
                 "edpb_membership": "No",
                 "afapdp_membership": "Yes",
                 "regulation_website": "http://www.inpdp.nat.tn/",
@@ -2175,18 +2175,18 @@
         },
         {
             "value": "Turkmenistan",
-            "uuid": "2ce9e8f3-cc5b-480d-918d-0086b523cd71",
+            "uuid": "ced21210-4752-4eaf-af83-8cf0844e60f5",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Turkey",
-            "uuid": "d6e7e630-f961-44e1-b02f-1b11653442c5",
+            "uuid": "31c75c5a-50fc-49a0-a351-dcf2972fe2c5",
             "meta": {
-                "protection_level_uuid": "719afcd1-84c1-48ac-841c-e69d0e59c134",
+                "protection_level_uuid": "a1e210cd-72ea-4915-a7f6-1e3a8d4851a6",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "https://www.kvkk.gov.tr/",
@@ -2196,18 +2196,18 @@
         },
         {
             "value": "Tuvalu",
-            "uuid": "ffdee729-7500-46c6-bc4b-a20a1d3d7342",
+            "uuid": "715c35cb-859a-440c-8fd4-14f49f375024",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Ukraine",
-            "uuid": "0a571ce7-430b-45e2-a1f1-b50acad98013",
+            "uuid": "8927be18-fb82-443c-8550-790c3d273401",
             "meta": {
-                "protection_level_uuid": "719afcd1-84c1-48ac-841c-e69d0e59c134",
+                "protection_level_uuid": "a1e210cd-72ea-4915-a7f6-1e3a8d4851a6",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "www.ombudsman.gov.ua",
@@ -2216,9 +2216,9 @@
         },
         {
             "value": "Uruguay",
-            "uuid": "300233fd-638a-4928-bb1f-ea50c333e892",
+            "uuid": "10b91f9f-50b3-4d7e-ac47-d9eaf3e1807f",
             "meta": {
-                "protection_level_uuid": "747eee0a-726a-462c-a4ae-74762cfdb235",
+                "protection_level_uuid": "447ec6ef-cb95-458b-bde8-ebb1dd5e64a5",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "http://www.datospersonales.gub.uy/",
@@ -2228,63 +2228,63 @@
         },
         {
             "value": "Vanuatu",
-            "uuid": "f079519f-1ba1-4f9d-9520-be91b2a8ccc6",
+            "uuid": "bdf1e546-1b54-45a9-b654-80c421aa0d11",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Vatican",
-            "uuid": "13233f92-7807-4901-a254-a216ddef67e8",
+            "uuid": "2db57d5c-cd36-4b28-a15f-cabba1fb8f33",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Venezuela",
-            "uuid": "b4f82ed6-07aa-4365-ae16-fd1339c9cdb0",
+            "uuid": "c576751a-fcf8-41e7-9f51-b8aab82d2441",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Viet Nam",
-            "uuid": "64cb6550-2b16-464d-830b-35bbfe4fff49",
+            "uuid": "b3af1280-5f17-49a9-95c9-5ea37970e8fc",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Yemen",
-            "uuid": "3ea0bd40-ab52-4347-bc89-70f49d01bfee",
+            "uuid": "f5c87aeb-5e9c-4205-bcff-4307c9966f30",
             "meta": {
-                "protection_level_uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+                "protection_level_uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Zambia",
-            "uuid": "c363d549-79b6-4d98-977f-8ea9fe2aa2d9",
+            "uuid": "431a22a9-4c48-48eb-8b53-0ba6702d9f6d",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No"
             }
         },
         {
             "value": "Zimbabwe",
-            "uuid": "f08a7e6e-4cb6-434e-8cd6-7785445f4c57",
+            "uuid": "803db68f-fe56-4e41-b4a2-ba318490e16a",
             "meta": {
-                "protection_level_uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+                "protection_level_uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
                 "edpb_membership": "No",
                 "afapdp_membership": "No",
                 "regulation_website": "www.potraz.gov.zw",
@@ -2294,27 +2294,27 @@
     ],
     "protection_levels": [
         {
-            "uuid": "b4bfb22f-b603-4001-a009-ee2f3d185cd4",
+            "uuid": "c41ec6af-9631-4b84-95f2-754e48ec25f6",
             "description": "Data protection in this country is protected by GDPR.\nData transfers to this country do not require the use of transfer tools."
         },
         {
-            "uuid": "747eee0a-726a-462c-a4ae-74762cfdb235",
+            "uuid": "447ec6ef-cb95-458b-bde8-ebb1dd5e64a5",
             "description": "This country ensures an adequate level of data protection recognized by EU.Data transfers to this country do not require the use of transfer tools."
         },
         {
-            "uuid": "8d4154ae-764b-410f-a1c3-0bd5e2f37821",
+            "uuid": "c44ec254-b1b1-43eb-9cd3-a4bfa9bd6e92",
             "description": "This country is partially recognized as ensuring an adequate level of data protection by EU.Data transfers to this country may require the use of transfer tools."
         },
         {
-            "uuid": "719afcd1-84c1-48ac-841c-e69d0e59c134",
+            "uuid": "a1e210cd-72ea-4915-a7f6-1e3a8d4851a6",
             "description": "This country doesn't ensure an adequate level of data protection recognized by EU.Data transfers to this country require the use of transfer tools.This country has a data protection law and an independant data protection authority accredited by the Global Privacy Assembly."
         },
         {
-            "uuid": "bd654366-70b9-4edf-ab35-767ae361b3f4",
+            "uuid": "1f871705-04fd-4a3e-af2c-952dfb547183",
             "description": "Existence of general legislation on personal data protection or specific provisions.This country doesn't ensure an adequate level of data protection recognized by EU.Data transfers to this country require the use of transfer tools."
         },
         {
-            "uuid": "35ba7079-4db4-4d84-9844-239accec1d97",
+            "uuid": "08157c79-63f3-4e63-a4d3-3d2e6acf43aa",
             "description": "This country doesn't ensure an adequate level of data protection recognized by EU.Data transfers to this country require the use of transfer tools."
         }
     ]
