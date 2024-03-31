@@ -25,7 +25,7 @@ The project's data is dynamically sourced from CNIL's interactive global data pr
 - The custom YARA rule is engineered for precise detection of Telegram API keys, thus enhancing digital security measures.
 
 ## Limitations and Future Directions
-Current challenges include accurately deriving the authority name from the varied and complex URLs of data protection authorities. Future iterations will focus on refining authority name extraction and enriching the dataset with detailed legal and regulatory frameworks pertaining to data protection in each country.
+Current challenges include accurately deriving the authority name from the varied and complex URLs of data protection authorities. Some edge cases of url extraction have been hardcoded for now but future iterations will focus on refining authority name extraction and enriching the dataset with detailed legal and regulatory frameworks pertaining to data protection in each country.
 
 ## How to generate the cluster 
 
